@@ -1,0 +1,128 @@
+# Change these first
+owner: pemkotbekasi # Your GitHub username
+repo: website-status # Your GitHub repository name
+
+# Add your sites here
+sites:
+  - name: Web Bekasikota
+    url: https://www.bekasikota.go.id/ 
+  - name: Sekretariat Daerah
+    url: https://setda.bekasikota.go.id
+  - name: Inspektorat
+    url: https://inspektorat.bekasikota.go.id
+  - name: Sekretariat DPRD
+    url: https://dprd.bekasikota.go.id
+  - name: Badan Kepegawaian, Pendidikan dan Pelatihan Daerah
+    url: https://bkppd.bekasikota.go.id
+  - name: Badan Perencanaan Pembangunan Daerah
+    url: https://bappeda.bekasikota.go.id
+  - name: Badan Pengelolaan Keuangan dan Aset Daerah
+    url: https://bpkad.bekasikota.go.id
+  - name: Badan Pendapatan Daerah
+    url: https://bapenda.bekasikota.go.id
+  - name: Badan Kesatuan Bangsa dan Politik
+    url: https://kesbangpol.bekasikota.go.id
+  - name: Badan Penanggulangan Bencana Daerah
+    url: https://bpbd.bekasikota.go.id
+  - name: Badan Penelitian dan Pengembangan Daerah
+    url: https://balitbang.bekasikota.go.id
+  - name: Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu
+    url: https://dpmptsp.bekasikota.go.id
+  - name: Dinas Lingkungan Hidup
+    url: https://dlh.bekasikota.go.id
+  - name: Dinas Pendidikan
+    url: https://disdik.bekasikota.go.id
+  - name: Dinas Kesehatan
+    url: https://dinkes.bekasikota.go.id
+  - name: Dinas Pemadam Kebakaran
+    url: https://damkar.bekasikota.go.id
+  - name: Dinas Kependudukan dan Pencatatan Sipil
+    url: https://disdukcapil.bekasikota.go.id
+  - name: Dinas Komunikasi Informatika Statistik dan Persandian
+    url: https://diskominfo.bekasikota.go.id
+  - name: Dinas Pemuda dan Olahraga
+    url: https://dispora.bekasikota.go.id
+  - name: Dinas Tata Ruang
+    url: https://distaru.bekasikota.go.id
+  - name: Dinas Bina Marga dan Sumber daya Air
+    url: https://dbmsda.bekasikota.go.id
+  - name: Dinas Perumahan, Kawasan Permukiman dan Pertanahan
+    url: https://disperkimtan.bekasikota.go.id
+  - name: Dinas Kearsipan
+    url: https://disarsip.bekasikota.go.id
+  - name: Dinas Pemberdayaan Perempuan dan Perlindungan Anak
+    url: https://dpppa.bekasikota.go.id
+  - name: Dinas Perpustakaan Daerah
+    url: https://disperpus.bekasikota.go.id
+  - name: Dinas Pengendalian Penduduk dan Keluarga Berencana
+    url: https://dppkb.bekasikota.go.id
+  - name: Dinas Pariwisata dan Kebudayaan
+    url: https://disparbud.bekasikota.go.id
+  - name: Dinas Sosial
+    url: https://dinsos.bekasikota.go.id
+  - name: Dinas Tenaga Kerja
+    url: https://disnaker.bekasikota.go.id
+  - name: Dinas Perhubungan
+    url: https://dishub.bekasikota.go.id
+  - name: Dinas Koperasi, Usaha Kecil dan Menengah
+    url: https://dkukm.bekasikota.go.id
+  - name: Dinas Pertanian dan Perikanan
+    url: https://distanikan.bekasikota.go.id
+  - name: Dinas Perdagangan dan Perindustrian
+    url: https://disdagperin.bekasikota.go.id
+  - name: Dinas Ketahanan Pangan
+    url: https://disketapang.bekasikota.go.id
+  - name: Satpol PP
+    url: https://satpolpp.bekasikota.go.id
+  - name: RSUD
+    url: https://rsud.bekasikota.go.id
+  - name: Kecamatan Bekasi Timur
+    url: https://kec-bekasitimur.bekasikota.go.id
+  - name: Kecamatan Rawa Lumbu
+    url: https://kec-rawalumbu.bekasikota.go.id
+  - name: Kecamatan Pondok Gede
+    url: https://kec-pondokgede.bekasikota.go.id
+  - name: Kecamatan Mustika Jaya
+    url: https://kec-mustikajaya.bekasikota.go.id
+  - name: Kecamatan Medan Satria
+    url: https://kec-medansatria.bekasikota.go.id
+  - name: Kecamatan Jati Sampurna
+    url: https://kec-jatisampurna.bekasikota.go.id
+  - name: Kecamatan Jati Asih
+    url: https://kec-jatiasih.bekasikota.go.id
+  - name: Kecamatan Bekasi Utara
+    url: https://kec-bekasiutara.bekasikota.go.id
+  - name: Kecamatan Bekasi Selatan
+    url: https://kec-bekasiselatan.bekasikota.go.id
+  - name: Kecamatan Bekasi Barat
+    url: https://kec-bekasibarat.bekasikota.go.id
+  - name: Kecamatan Bantar Gebang
+    url: https://kec-bantargebang.bekasikota.go.id
+  - name: Kecamatan Pondok Melati
+    url: https://kec-pondokmelati.bekasikota.go.id
+
+status-website:
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  #cname: demo.upptime.js.org
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  baseUrl: /website-status
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Website Monitoring
+  introTitle: "Realtime Monitoring Status Website bekasikota.go.id"
+  #introMessage: 
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
