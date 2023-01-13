@@ -1,7 +1,7 @@
 url: https://disdagperin.bekasikota.go.id
-status: up
-code: 200
-responseTime: 6195
-lastUpdated: 2023-01-12T23:12:06.893Z
+status: down
+code: 503
+responseTime: 945
+lastUpdated: 2023-01-13T01:42:11.039Z
 startTime: Wed Nov 23 2022 07:03:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
