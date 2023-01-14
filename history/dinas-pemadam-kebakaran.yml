@@ -1,7 +1,7 @@
 url: https://damkar.bekasikota.go.id
-status: up
-code: 200
-responseTime: 3778
-lastUpdated: 2023-01-13T23:09:38.702Z
+status: down
+code: 503
+responseTime: 4399
+lastUpdated: 2023-01-14T12:58:13.256Z
 startTime: Wed Nov 23 2022 07:01:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
