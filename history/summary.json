@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "97.53%",
-    "time": 9165,
-    "timeDay": 8903,
-    "timeWeek": 7217,
-    "timeMonth": 9165,
-    "timeYear": 9165,
+    "time": 8931,
+    "timeDay": 5423,
+    "timeWeek": 7079,
+    "timeMonth": 8931,
+    "timeYear": 8931,
     "dailyMinutesDown": {
       "2022-12-31": 11,
       "2022-12-28": 27,
@@ -39,16 +39,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/setda.bekasikota.go.id.ico",
     "slug": "sekretariat-daerah",
     "status": "up",
-    "uptime": "33.82%",
-    "uptimeDay": "90.78%",
+    "uptime": "33.88%",
+    "uptimeDay": "95.21%",
     "uptimeWeek": "66.58%",
     "uptimeMonth": "91.42%",
-    "uptimeYear": "17.23%",
-    "time": 3347,
-    "timeDay": 4217,
-    "timeWeek": 3117,
-    "timeMonth": 3347,
-    "timeYear": 3347,
+    "uptimeYear": "17.42%",
+    "time": 3281,
+    "timeDay": 2993,
+    "timeWeek": 2909,
+    "timeMonth": 3281,
+    "timeYear": 3281,
     "dailyMinutesDown": {
       "2023-01-17": 69,
       "2023-01-16": 363,
@@ -362,8 +362,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -372,16 +371,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/inspektorat.bekasikota.go.id.ico",
     "slug": "inspektorat",
     "status": "up",
-    "uptime": "46.31%",
+    "uptime": "46.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "15.87%",
-    "time": 4235,
-    "timeDay": 4107,
-    "timeWeek": 3995,
-    "timeMonth": 4235,
-    "timeYear": 4235,
+    "uptimeYear": "16.07%",
+    "time": 4048,
+    "timeDay": 1061,
+    "timeWeek": 3366,
+    "timeMonth": 4048,
+    "timeYear": 4048,
     "dailyMinutesDown": {
       "2023-01-09": 64,
       "2022-12-31": 10,
@@ -694,8 +693,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -704,16 +702,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dprd.bekasikota.go.id.ico",
     "slug": "sekretariat-dprd",
     "status": "up",
-    "uptime": "9.83%",
+    "uptime": "9.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "18.62%",
-    "time": 4854,
-    "timeDay": 5778,
-    "timeWeek": 4741,
-    "timeMonth": 4854,
-    "timeYear": 4854,
+    "uptimeYear": "18.81%",
+    "time": 4653,
+    "timeDay": 1639,
+    "timeWeek": 4144,
+    "timeMonth": 4653,
+    "timeYear": 4653,
     "dailyMinutesDown": {
       "2023-01-01": 74,
       "2022-12-31": 10,
@@ -1016,8 +1014,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -1026,11 +1023,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bkppd.bekasikota.go.id.ico",
     "slug": "badan-kepegawaian-pendidikan-dan-pelatihan-daerah",
     "status": "down",
-    "uptime": "34.20%",
+    "uptime": "34.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.35%",
+    "uptimeYear": "18.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1333,8 +1330,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -1343,11 +1339,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bappeda.bekasikota.go.id.ico",
     "slug": "badan-perencanaan-pembangunan-daerah",
     "status": "down",
-    "uptime": "9.69%",
+    "uptime": "9.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.35%",
+    "uptimeYear": "18.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1650,8 +1646,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -1660,16 +1655,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bpkad.bekasikota.go.id.ico",
     "slug": "badan-pengelolaan-keuangan-dan-aset-daerah",
     "status": "up",
-    "uptime": "46.02%",
+    "uptime": "46.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "15.75%",
-    "time": 5203,
-    "timeDay": 5859,
-    "timeWeek": 4396,
-    "timeMonth": 5203,
-    "timeYear": 5203,
+    "uptimeYear": "15.95%",
+    "time": 5027,
+    "timeDay": 2036,
+    "timeWeek": 3871,
+    "timeMonth": 5027,
+    "timeYear": 5027,
     "dailyMinutesDown": {
       "2023-01-11": 20,
       "2023-01-09": 64,
@@ -1983,8 +1978,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -1993,11 +1987,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bapenda.bekasikota.go.id.ico",
     "slug": "badan-pendapatan-daerah",
     "status": "down",
-    "uptime": "33.97%",
+    "uptime": "34.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.35%",
+    "uptimeYear": "18.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -2300,8 +2294,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -2310,16 +2303,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kesbangpol.bekasikota.go.id.ico",
     "slug": "badan-kesatuan-bangsa-dan-politik",
     "status": "up",
-    "uptime": "33.84%",
+    "uptime": "33.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "17.89%",
-    "time": 3426,
-    "timeDay": 1167,
-    "timeWeek": 3022,
-    "timeMonth": 3426,
-    "timeYear": 3426,
+    "uptimeYear": "18.08%",
+    "time": 3505,
+    "timeDay": 4681,
+    "timeWeek": 3502,
+    "timeMonth": 3505,
+    "timeYear": 3505,
     "dailyMinutesDown": {
       "2023-01-01": 335,
       "2022-12-31": 778,
@@ -2627,8 +2620,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -2637,16 +2629,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bpbd.bekasikota.go.id.ico",
     "slug": "badan-penanggulangan-bencana-daerah",
     "status": "up",
-    "uptime": "33.73%",
+    "uptime": "33.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "97.16%",
-    "uptimeYear": "17.92%",
-    "time": 4811,
-    "timeDay": 5331,
-    "timeWeek": 4137,
-    "timeMonth": 4811,
-    "timeYear": 4811,
+    "uptimeYear": "18.11%",
+    "time": 4830,
+    "timeDay": 5136,
+    "timeWeek": 4031,
+    "timeMonth": 4830,
+    "timeYear": 4830,
     "dailyMinutesDown": {
       "2023-01-11": 18,
       "2023-01-01": 335,
@@ -2955,8 +2947,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -2965,11 +2956,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/balitbang.bekasikota.go.id.ico",
     "slug": "badan-penelitian-dan-pengembangan-daerah",
     "status": "down",
-    "uptime": "9.69%",
+    "uptime": "9.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.35%",
+    "uptimeYear": "18.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -3272,8 +3263,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -3287,11 +3277,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4384,
-    "timeDay": 5937,
-    "timeWeek": 4350,
-    "timeMonth": 4384,
-    "timeYear": 4384,
+    "time": 4231,
+    "timeDay": 1936,
+    "timeWeek": 3773,
+    "timeMonth": 4231,
+    "timeYear": 4231,
     "dailyMinutesDown": {}
   },
   {
@@ -3300,16 +3290,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlh.bekasikota.go.id.ico",
     "slug": "dinas-lingkungan-hidup",
     "status": "up",
-    "uptime": "44.66%",
+    "uptime": "44.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.62%",
-    "uptimeYear": "16.97%",
-    "time": 4022,
-    "timeDay": 5348,
-    "timeWeek": 3257,
-    "timeMonth": 4022,
-    "timeYear": 4022,
+    "uptimeMonth": "88.94%",
+    "uptimeYear": "17.16%",
+    "time": 3863,
+    "timeDay": 1471,
+    "timeWeek": 2649,
+    "timeMonth": 3863,
+    "timeYear": 3863,
     "dailyMinutesDown": {
       "2023-01-02": 152,
       "2023-01-01": 1440,
@@ -3618,8 +3608,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -3632,12 +3621,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "96.81%",
-    "uptimeYear": "96.68%",
-    "time": 4836,
-    "timeDay": 5966,
-    "timeWeek": 5051,
-    "timeMonth": 4836,
-    "timeYear": 4836,
+    "uptimeYear": "96.73%",
+    "time": 4748,
+    "timeDay": 3248,
+    "timeWeek": 4702,
+    "timeMonth": 4748,
+    "timeYear": 4748,
     "dailyMinutesDown": {
       "2023-01-13": 20,
       "2023-01-01": 955,
@@ -3663,11 +3652,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "0.00%",
-    "time": 3950,
-    "timeDay": 1545,
-    "timeWeek": 2387,
-    "timeMonth": 3950,
-    "timeYear": 3950,
+    "time": 3807,
+    "timeDay": 1663,
+    "timeWeek": 1792,
+    "timeMonth": 3807,
+    "timeYear": 3807,
     "dailyMinutesDown": {
       "2022-12-31": 72,
       "2022-12-30": 20,
@@ -3971,8 +3960,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -3986,11 +3974,11 @@
     "uptimeWeek": "98.72%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "0.00%",
-    "time": 5052,
-    "timeDay": 3320,
-    "timeWeek": 4737,
-    "timeMonth": 5052,
-    "timeYear": 5052,
+    "time": 4965,
+    "timeDay": 3399,
+    "timeWeek": 4284,
+    "timeMonth": 4965,
+    "timeYear": 4965,
     "dailyMinutesDown": {
       "2023-01-14": 112,
       "2023-01-11": 17,
@@ -4297,8 +4285,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -4308,15 +4295,15 @@
     "slug": "dinas-kependudukan-dan-pencatatan-sipil",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "93.64%",
+    "uptimeDay": "95.49%",
     "uptimeWeek": "66.98%",
     "uptimeMonth": "91.54%",
     "uptimeYear": "0.00%",
-    "time": 4561,
-    "timeDay": 5938,
-    "timeWeek": 4667,
-    "timeMonth": 4561,
-    "timeYear": 4561,
+    "time": 4455,
+    "timeDay": 6069,
+    "timeWeek": 4476,
+    "timeMonth": 4455,
+    "timeYear": 4455,
     "dailyMinutesDown": {
       "2023-01-17": 65,
       "2023-01-16": 328,
@@ -4629,8 +4616,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -4644,11 +4630,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5131,
-    "timeDay": 6053,
-    "timeWeek": 4134,
-    "timeMonth": 5131,
-    "timeYear": 5131,
+    "time": 4949,
+    "timeDay": 2039,
+    "timeWeek": 3673,
+    "timeMonth": 4949,
+    "timeYear": 4949,
     "dailyMinutesDown": {}
   },
   {
@@ -4658,15 +4644,15 @@
     "slug": "dinas-pemuda-dan-olahraga",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "95.13%",
+    "uptimeDay": "95.69%",
     "uptimeWeek": "67.19%",
     "uptimeMonth": "91.45%",
     "uptimeYear": "0.00%",
-    "time": 4942,
-    "timeDay": 6851,
-    "timeWeek": 4802,
-    "timeMonth": 4942,
-    "timeYear": 4942,
+    "time": 4818,
+    "timeDay": 6386,
+    "timeWeek": 4553,
+    "timeMonth": 4818,
+    "timeYear": 4818,
     "dailyMinutesDown": {
       "2023-01-17": 62,
       "2023-01-16": 309,
@@ -4979,8 +4965,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -4994,11 +4979,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.22%",
     "uptimeYear": "0.00%",
-    "time": 4124,
-    "timeDay": 5173,
-    "timeWeek": 4005,
-    "timeMonth": 4124,
-    "timeYear": 4124,
+    "time": 4224,
+    "timeDay": 5721,
+    "timeWeek": 4602,
+    "timeMonth": 4224,
+    "timeYear": 4224,
     "dailyMinutesDown": {
       "2023-01-01": 335,
       "2022-12-31": 771,
@@ -5302,8 +5287,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -5313,15 +5297,15 @@
     "slug": "dinas-bina-marga-dan-sumber-daya-air",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "93.13%",
+    "uptimeDay": "95.86%",
     "uptimeWeek": "66.91%",
     "uptimeMonth": "91.52%",
     "uptimeYear": "0.00%",
-    "time": 4252,
-    "timeDay": 5454,
-    "timeWeek": 3536,
-    "timeMonth": 4252,
-    "timeYear": 4252,
+    "time": 4144,
+    "timeDay": 5371,
+    "timeWeek": 3290,
+    "timeMonth": 4144,
+    "timeYear": 4144,
     "dailyMinutesDown": {
       "2023-01-17": 60,
       "2023-01-16": 340,
@@ -5634,8 +5618,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -5645,15 +5628,15 @@
     "slug": "dinas-perumahan-kawasan-permukiman-dan-pertanahan",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "93.48%",
+    "uptimeDay": "96.02%",
     "uptimeWeek": "66.96%",
     "uptimeMonth": "91.54%",
     "uptimeYear": "0.00%",
-    "time": 5024,
-    "timeDay": 6480,
-    "timeWeek": 5311,
-    "timeMonth": 5024,
-    "timeYear": 5024,
+    "time": 4891,
+    "timeDay": 6034,
+    "timeWeek": 5059,
+    "timeMonth": 4891,
+    "timeYear": 4891,
     "dailyMinutesDown": {
       "2023-01-17": 57,
       "2023-01-16": 338,
@@ -5965,8 +5948,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -5978,7 +5960,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.13%",
+    "uptimeMonth": "45.45%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -6324,8 +6306,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -6339,11 +6320,11 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "97.20%",
     "uptimeYear": "0.00%",
-    "time": 4640,
-    "timeDay": 5106,
-    "timeWeek": 4263,
-    "timeMonth": 4640,
-    "timeYear": 4640,
+    "time": 4689,
+    "timeDay": 5466,
+    "timeWeek": 4312,
+    "timeMonth": 4689,
+    "timeYear": 4689,
     "dailyMinutesDown": {
       "2023-01-15": 12,
       "2023-01-01": 335,
@@ -6649,8 +6630,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -6662,7 +6642,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.13%",
+    "uptimeMonth": "45.45%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -7008,8 +6988,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -7023,11 +7002,11 @@
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "0.00%",
-    "time": 6323,
-    "timeDay": 6456,
-    "timeWeek": 5863,
-    "timeMonth": 6323,
-    "timeYear": 6323,
+    "time": 6331,
+    "timeDay": 6478,
+    "timeWeek": 5718,
+    "timeMonth": 6331,
+    "timeYear": 6331,
     "dailyMinutesDown": {
       "2023-01-15": 11,
       "2023-01-14": 112,
@@ -7333,8 +7312,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -7348,11 +7326,11 @@
     "uptimeWeek": "67.54%",
     "uptimeMonth": "91.56%",
     "uptimeYear": "0.00%",
-    "time": 4861,
-    "timeDay": 1593,
-    "timeWeek": 5073,
-    "timeMonth": 4861,
-    "timeYear": 4861,
+    "time": 4897,
+    "timeDay": 3627,
+    "timeWeek": 5058,
+    "timeMonth": 4897,
+    "timeYear": 4897,
     "dailyMinutesDown": {
       "2023-01-17": 25,
       "2023-01-16": 302,
@@ -7664,8 +7642,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -7677,7 +7654,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.13%",
+    "uptimeMonth": "45.45%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -8023,8 +8000,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -8038,11 +8014,11 @@
     "uptimeWeek": "99.90%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "0.00%",
-    "time": 4197,
-    "timeDay": 4602,
-    "timeWeek": 4924,
-    "timeMonth": 4197,
-    "timeYear": 4197,
+    "time": 4024,
+    "timeDay": 1255,
+    "timeWeek": 4387,
+    "timeMonth": 4024,
+    "timeYear": 4024,
     "dailyMinutesDown": {
       "2023-01-15": 10,
       "2023-01-01": 324,
@@ -8347,8 +8323,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -8362,11 +8337,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "0.00%",
-    "time": 3819,
-    "timeDay": 5404,
-    "timeWeek": 4155,
-    "timeMonth": 3819,
-    "timeYear": 3819,
+    "time": 3680,
+    "timeDay": 1456,
+    "timeWeek": 4146,
+    "timeMonth": 3680,
+    "timeYear": 3680,
     "dailyMinutesDown": {
       "2023-01-15": 9,
       "2023-01-01": 324,
@@ -8672,8 +8647,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -8683,15 +8657,15 @@
     "slug": "dinas-koperasi-usaha-kecil-dan-menengah",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "96.71%",
+    "uptimeDay": "97.37%",
     "uptimeWeek": "66.41%",
     "uptimeMonth": "91.41%",
     "uptimeYear": "0.00%",
-    "time": 4984,
-    "timeDay": 5328,
-    "timeWeek": 5066,
-    "timeMonth": 4984,
-    "timeYear": 4984,
+    "time": 5014,
+    "timeDay": 5687,
+    "timeWeek": 5089,
+    "timeMonth": 5014,
+    "timeYear": 5014,
     "dailyMinutesDown": {
       "2023-01-17": 38,
       "2023-01-16": 322,
@@ -9004,8 +8978,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -9017,7 +8990,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.13%",
+    "uptimeMonth": "45.45%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -9363,8 +9336,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -9374,15 +9346,15 @@
     "slug": "dinas-perdagangan-dan-perindustrian",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "96.37%",
+    "uptimeDay": "97.51%",
     "uptimeWeek": "66.58%",
     "uptimeMonth": "91.45%",
     "uptimeYear": "0.00%",
-    "time": 4410,
-    "timeDay": 4281,
-    "timeWeek": 4273,
-    "timeMonth": 4410,
-    "timeYear": 4410,
+    "time": 4458,
+    "timeDay": 4389,
+    "timeWeek": 4286,
+    "timeMonth": 4458,
+    "timeYear": 4458,
     "dailyMinutesDown": {
       "2023-01-17": 36,
       "2023-01-16": 328,
@@ -9694,8 +9666,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -9707,7 +9678,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.13%",
+    "uptimeMonth": "45.45%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -10053,8 +10024,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -10064,15 +10034,15 @@
     "slug": "satpol-pp",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "97.13%",
+    "uptimeDay": "97.64%",
     "uptimeWeek": "66.70%",
     "uptimeMonth": "91.48%",
     "uptimeYear": "0.00%",
-    "time": 4911,
-    "timeDay": 5156,
-    "timeWeek": 4574,
-    "timeMonth": 4911,
-    "timeYear": 4911,
+    "time": 4793,
+    "timeDay": 5071,
+    "timeWeek": 4371,
+    "timeMonth": 4793,
+    "timeYear": 4793,
     "dailyMinutesDown": {
       "2023-01-17": 34,
       "2023-01-16": 318,
@@ -10385,8 +10355,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -10398,13 +10367,13 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "93.49%",
+    "uptimeMonth": "95.81%",
     "uptimeYear": "0.00%",
-    "time": 6486,
-    "timeDay": 7573,
-    "timeWeek": 6903,
-    "timeMonth": 6486,
-    "timeYear": 6486,
+    "time": 6566,
+    "timeDay": 7920,
+    "timeWeek": 6840,
+    "timeMonth": 6566,
+    "timeYear": 6566,
     "dailyMinutesDown": {
       "2023-01-11": 17,
       "2023-01-08": 17,
@@ -10710,8 +10679,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -10725,11 +10693,11 @@
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "0.00%",
-    "time": 5816,
-    "timeDay": 7941,
-    "timeWeek": 5826,
-    "timeMonth": 5816,
-    "timeYear": 5816,
+    "time": 5852,
+    "timeDay": 6508,
+    "timeWeek": 5805,
+    "timeMonth": 5852,
+    "timeYear": 5852,
     "dailyMinutesDown": {
       "2023-01-14": 113,
       "2023-01-12": 10,
@@ -11035,8 +11003,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -11050,11 +11017,11 @@
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "0.00%",
-    "time": 6385,
-    "timeDay": 7618,
-    "timeWeek": 6535,
-    "timeMonth": 6385,
-    "timeYear": 6385,
+    "time": 6184,
+    "timeDay": 2762,
+    "timeWeek": 6054,
+    "timeMonth": 6184,
+    "timeYear": 6184,
     "dailyMinutesDown": {
       "2023-01-14": 113,
       "2023-01-01": 231,
@@ -11359,8 +11326,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -11374,11 +11340,11 @@
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "0.00%",
-    "time": 6002,
-    "timeDay": 7454,
-    "timeWeek": 6163,
-    "timeMonth": 6002,
-    "timeYear": 6002,
+    "time": 6050,
+    "timeDay": 6878,
+    "timeWeek": 6132,
+    "timeMonth": 6050,
+    "timeYear": 6050,
     "dailyMinutesDown": {
       "2023-01-14": 113,
       "2023-01-01": 231,
@@ -11684,8 +11650,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -11699,11 +11664,11 @@
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "0.00%",
-    "time": 5313,
-    "timeDay": 3263,
-    "timeWeek": 5254,
-    "timeMonth": 5313,
-    "timeYear": 5313,
+    "time": 5178,
+    "timeDay": 2872,
+    "timeWeek": 5237,
+    "timeMonth": 5178,
+    "timeYear": 5178,
     "dailyMinutesDown": {
       "2023-01-14": 113,
       "2023-01-01": 231,
@@ -12009,8 +11974,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -12024,11 +11988,11 @@
     "uptimeWeek": "98.66%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "0.00%",
-    "time": 5898,
-    "timeDay": 7457,
-    "timeWeek": 6335,
-    "timeMonth": 5898,
-    "timeYear": 5898,
+    "time": 5722,
+    "timeDay": 2559,
+    "timeWeek": 5877,
+    "timeMonth": 5722,
+    "timeYear": 5722,
     "dailyMinutesDown": {
       "2023-01-14": 135,
       "2023-01-01": 231,
@@ -12332,8 +12296,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -12347,11 +12310,11 @@
     "uptimeWeek": "98.68%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "0.00%",
-    "time": 5667,
-    "timeDay": 3313,
-    "timeWeek": 5893,
-    "timeMonth": 5667,
-    "timeYear": 5667,
+    "time": 5514,
+    "timeDay": 2748,
+    "timeWeek": 5483,
+    "timeMonth": 5514,
+    "timeYear": 5514,
     "dailyMinutesDown": {
       "2023-01-14": 134,
       "2023-01-01": 231,
@@ -12655,8 +12618,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -12670,11 +12632,11 @@
     "uptimeWeek": "98.69%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "0.00%",
-    "time": 6056,
-    "timeDay": 7596,
-    "timeWeek": 5883,
-    "timeMonth": 6056,
-    "timeYear": 6056,
+    "time": 6097,
+    "timeDay": 6831,
+    "timeWeek": 5857,
+    "timeMonth": 6097,
+    "timeYear": 6097,
     "dailyMinutesDown": {
       "2023-01-14": 132,
       "2023-01-01": 231,
@@ -12978,8 +12940,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -12993,11 +12954,11 @@
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "0.00%",
-    "time": 6233,
-    "timeDay": 8962,
-    "timeWeek": 6631,
-    "timeMonth": 6233,
-    "timeYear": 6233,
+    "time": 6216,
+    "timeDay": 5901,
+    "timeWeek": 6501,
+    "timeMonth": 6216,
+    "timeYear": 6216,
     "dailyMinutesDown": {
       "2023-01-14": 131,
       "2023-01-01": 231,
@@ -13301,8 +13262,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -13316,11 +13276,11 @@
     "uptimeWeek": "98.72%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "0.00%",
-    "time": 5261,
-    "timeDay": 3465,
-    "timeWeek": 5350,
-    "timeMonth": 5261,
-    "timeYear": 5261,
+    "time": 5321,
+    "timeDay": 6399,
+    "timeWeek": 5379,
+    "timeMonth": 5321,
+    "timeYear": 5321,
     "dailyMinutesDown": {
       "2023-01-14": 129,
       "2023-01-01": 231,
@@ -13624,8 +13584,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -13639,11 +13598,11 @@
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "0.00%",
-    "time": 5303,
-    "timeDay": 3339,
-    "timeWeek": 4567,
-    "timeMonth": 5303,
-    "timeYear": 5303,
+    "time": 5372,
+    "timeDay": 6606,
+    "timeWeek": 4942,
+    "timeMonth": 5372,
+    "timeYear": 5372,
     "dailyMinutesDown": {
       "2023-01-14": 128,
       "2023-01-01": 231,
@@ -13947,8 +13906,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -13962,11 +13920,11 @@
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "0.00%",
-    "time": 5368,
-    "timeDay": 3318,
-    "timeWeek": 5933,
-    "timeMonth": 5368,
-    "timeYear": 5368,
+    "time": 5460,
+    "timeDay": 7119,
+    "timeWeek": 5882,
+    "timeMonth": 5460,
+    "timeYear": 5460,
     "dailyMinutesDown": {
       "2023-01-14": 126,
       "2023-01-01": 231,
@@ -14270,8 +14228,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -14285,11 +14242,11 @@
     "uptimeWeek": "98.76%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "0.00%",
-    "time": 5681,
-    "timeDay": 3314,
-    "timeWeek": 5633,
-    "timeMonth": 5681,
-    "timeYear": 5681,
+    "time": 5516,
+    "timeDay": 2554,
+    "timeWeek": 5163,
+    "timeMonth": 5516,
+    "timeYear": 5516,
     "dailyMinutesDown": {
       "2023-01-14": 125,
       "2023-01-01": 231,
@@ -14593,8 +14550,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   }
 ]
