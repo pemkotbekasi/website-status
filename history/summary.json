@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/amdal.bekasikota.go.id.ico",
     "slug": "amdal",
     "status": "down",
-    "uptime": "41.56%",
-    "uptimeDay": "41.56%",
-    "uptimeWeek": "41.56%",
-    "uptimeMonth": "41.56%",
-    "uptimeYear": "41.56%",
+    "uptime": "33.93%",
+    "uptimeDay": "33.93%",
+    "uptimeWeek": "33.93%",
+    "uptimeMonth": "33.93%",
+    "uptimeYear": "33.93%",
     "time": 1272,
     "timeDay": 1272,
     "timeWeek": 1272,
     "timeMonth": 1272,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2023-03-04": 94
+      "2023-03-04": 130
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/antrian.bekasikota.go.id.ico",
     "slug": "antrian",
     "status": "up",
-    "uptime": "17.35%",
-    "uptimeDay": "17.35%",
-    "uptimeWeek": "17.35%",
-    "uptimeMonth": "17.35%",
-    "uptimeYear": "17.35%",
+    "uptime": "14.17%",
+    "uptimeDay": "14.17%",
+    "uptimeWeek": "14.17%",
+    "uptimeMonth": "14.17%",
+    "uptimeYear": "14.17%",
     "time": 1192,
     "timeDay": 1192,
     "timeWeek": 1192,
     "timeMonth": 1192,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2023-03-04": 133
+      "2023-03-04": 169
     }
   },
   {
@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/asb.bekasikota.go.id.ico",
     "slug": "asb",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
+    "uptime": "99.48%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 1144,
     "timeDay": 1144,
     "timeWeek": 1144,
@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ayokerja.bekasikota.go.id.ico",
     "slug": "ayokerja",
     "status": "down",
-    "uptime": "42.86%",
-    "uptimeDay": "42.86%",
-    "uptimeWeek": "42.86%",
-    "uptimeMonth": "42.86%",
-    "uptimeYear": "42.86%",
+    "uptime": "34.99%",
+    "uptimeDay": "34.99%",
+    "uptimeWeek": "34.99%",
+    "uptimeMonth": "34.99%",
+    "uptimeYear": "34.99%",
     "time": 1295,
     "timeDay": 1295,
     "timeWeek": 1295,
     "timeMonth": 1295,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2023-03-04": 92
+      "2023-03-04": 128
     }
   },
   {
@@ -139,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bangkom.bekasikota.go.id.ico",
     "slug": "bangkom",
     "status": "up",
-    "uptime": "90.33%",
-    "uptimeDay": "90.33%",
-    "uptimeWeek": "90.33%",
-    "uptimeMonth": "90.33%",
-    "uptimeYear": "90.33%",
+    "uptime": "73.75%",
+    "uptimeDay": "73.75%",
+    "uptimeWeek": "73.75%",
+    "uptimeMonth": "73.75%",
+    "uptimeYear": "73.75%",
     "time": 5636,
     "timeDay": 5636,
     "timeWeek": 5636,
     "timeMonth": 5636,
     "timeYear": 5636,
     "dailyMinutesDown": {
-      "2023-03-04": 15
+      "2023-03-04": 51
     }
   },
   {
@@ -170,7 +170,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 165
+      "2023-03-04": 202
     }
   },
   {
@@ -179,18 +179,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bappelitbangda.bekasikota.go.id.ico",
     "slug": "bappelitbangda",
     "status": "up",
-    "uptime": "91.02%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "91.02%",
-    "uptimeMonth": "91.02%",
-    "uptimeYear": "91.02%",
+    "uptime": "74.26%",
+    "uptimeDay": "74.26%",
+    "uptimeWeek": "74.26%",
+    "uptimeMonth": "74.26%",
+    "uptimeYear": "74.26%",
     "time": 5972,
     "timeDay": 5972,
     "timeWeek": 5972,
     "timeMonth": 5972,
     "timeYear": 5972,
     "dailyMinutesDown": {
-      "2023-03-04": 14
+      "2023-03-04": 50
     }
   },
   {
@@ -199,18 +199,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/best.bekasikota.go.id.ico",
     "slug": "best",
     "status": "up",
-    "uptime": "91.34%",
-    "uptimeDay": "91.34%",
-    "uptimeWeek": "91.34%",
-    "uptimeMonth": "91.34%",
-    "uptimeYear": "91.34%",
+    "uptime": "74.52%",
+    "uptimeDay": "74.52%",
+    "uptimeWeek": "74.52%",
+    "uptimeMonth": "74.52%",
+    "uptimeYear": "74.52%",
     "time": 6267,
     "timeDay": 6267,
     "timeWeek": 6267,
     "timeMonth": 6267,
     "timeYear": 6267,
     "dailyMinutesDown": {
-      "2023-03-04": 14
+      "2023-03-04": 50
     }
   },
   {
@@ -219,18 +219,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bkpsdm.bekasikota.go.id.ico",
     "slug": "bkpsdm",
     "status": "down",
-    "uptime": "20.68%",
-    "uptimeDay": "20.68%",
-    "uptimeWeek": "20.68%",
-    "uptimeMonth": "20.68%",
-    "uptimeYear": "20.68%",
+    "uptime": "16.87%",
+    "uptimeDay": "16.87%",
+    "uptimeWeek": "16.87%",
+    "uptimeMonth": "16.87%",
+    "uptimeYear": "16.87%",
     "time": 3967,
     "timeDay": 3967,
     "timeWeek": 3967,
     "timeMonth": 3967,
     "timeYear": 3967,
     "dailyMinutesDown": {
-      "2023-03-04": 126
+      "2023-03-04": 162
     }
   },
   {
@@ -239,18 +239,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blud.bekasikota.go.id.ico",
     "slug": "blud",
     "status": "up",
-    "uptime": "85.55%",
-    "uptimeDay": "85.55%",
-    "uptimeWeek": "85.55%",
-    "uptimeMonth": "85.55%",
-    "uptimeYear": "85.55%",
+    "uptime": "69.77%",
+    "uptimeDay": "69.77%",
+    "uptimeWeek": "69.77%",
+    "uptimeMonth": "69.77%",
+    "uptimeYear": "69.77%",
     "time": 1310,
     "timeDay": 1310,
     "timeWeek": 1310,
     "timeMonth": 1310,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2023-03-04": 23
+      "2023-03-04": 59
     }
   },
   {
@@ -270,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 165
+      "2023-03-04": 201
     }
   },
   {
@@ -279,18 +279,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bmd.bekasikota.go.id.ico",
     "slug": "bmd",
     "status": "up",
-    "uptime": "17.74%",
-    "uptimeDay": "17.74%",
-    "uptimeWeek": "17.74%",
-    "uptimeMonth": "17.74%",
-    "uptimeYear": "17.74%",
+    "uptime": "14.46%",
+    "uptimeDay": "14.46%",
+    "uptimeWeek": "14.46%",
+    "uptimeMonth": "14.46%",
+    "uptimeYear": "14.46%",
     "time": 5557,
     "timeDay": 5557,
     "timeWeek": 5557,
     "timeMonth": 5557,
     "timeYear": 5557,
     "dailyMinutesDown": {
-      "2023-03-04": 130
+      "2023-03-04": 166
     }
   },
   {
@@ -299,18 +299,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bos.bekasikota.go.id.ico",
     "slug": "bos",
     "status": "up",
-    "uptime": "18.04%",
-    "uptimeDay": "18.04%",
-    "uptimeWeek": "18.04%",
-    "uptimeMonth": "18.04%",
-    "uptimeYear": "18.04%",
+    "uptime": "14.70%",
+    "uptimeDay": "14.70%",
+    "uptimeWeek": "14.70%",
+    "uptimeMonth": "14.70%",
+    "uptimeYear": "14.70%",
     "time": 1171,
     "timeDay": 1171,
     "timeWeek": 1171,
     "timeMonth": 1171,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2023-03-04": 130
+      "2023-03-04": 166
     }
   },
   {
@@ -319,18 +319,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bpbd.bekasikota.go.id.ico",
     "slug": "bpbd",
     "status": "down",
-    "uptime": "22.17%",
-    "uptimeDay": "22.17%",
-    "uptimeWeek": "22.17%",
-    "uptimeMonth": "22.17%",
-    "uptimeYear": "22.17%",
+    "uptime": "18.06%",
+    "uptimeDay": "18.06%",
+    "uptimeWeek": "18.06%",
+    "uptimeMonth": "18.06%",
+    "uptimeYear": "18.06%",
     "time": 4044,
     "timeDay": 4044,
     "timeWeek": 4044,
     "timeMonth": 4044,
     "timeYear": 4044,
     "dailyMinutesDown": {
-      "2023-03-04": 123
+      "2023-03-04": 159
     }
   },
   {
@@ -375,11 +375,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bpum2022.bekasikota.go.id.ico",
     "slug": "bpum2022",
     "status": "up",
-    "uptime": "94.12%",
-    "uptimeDay": "94.12%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "94.12%",
+    "uptime": "95.21%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "95.21%",
     "time": 1294,
     "timeDay": 1294,
     "timeWeek": 1294,
@@ -395,11 +395,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/brankas.bekasikota.go.id.ico",
     "slug": "brankas",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 6141,
     "timeDay": 6141,
     "timeWeek": 6141,
@@ -469,11 +469,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/damkar.bekasikota.go.id.ico",
     "slug": "damkar",
     "status": "up",
-    "uptime": "94.54%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "94.54%",
-    "uptimeMonth": "94.54%",
-    "uptimeYear": "94.54%",
+    "uptime": "95.55%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "95.55%",
+    "uptimeMonth": "95.55%",
+    "uptimeYear": "95.55%",
     "time": 6735,
     "timeDay": 6735,
     "timeWeek": 6735,
@@ -489,11 +489,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/danta.bekasikota.go.id.ico",
     "slug": "danta",
     "status": "up",
-    "uptime": "94.41%",
-    "uptimeDay": "94.41%",
-    "uptimeWeek": "94.41%",
-    "uptimeMonth": "94.41%",
-    "uptimeYear": "94.41%",
+    "uptime": "95.45%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "95.45%",
+    "uptimeYear": "95.45%",
     "time": 1857,
     "timeDay": 1857,
     "timeWeek": 1857,
@@ -509,18 +509,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/danta-admin.bekasikota.go.id.ico",
     "slug": "danta-admin",
     "status": "up",
-    "uptime": "87.85%",
-    "uptimeDay": "87.85%",
-    "uptimeWeek": "87.85%",
-    "uptimeMonth": "87.85%",
-    "uptimeYear": "87.85%",
+    "uptime": "71.41%",
+    "uptimeDay": "71.41%",
+    "uptimeWeek": "71.41%",
+    "uptimeMonth": "71.41%",
+    "uptimeYear": "71.41%",
     "time": 5525,
     "timeDay": 5525,
     "timeWeek": 5525,
     "timeMonth": 5525,
     "timeYear": 5525,
     "dailyMinutesDown": {
-      "2023-03-04": 19
+      "2023-03-04": 55
     }
   },
   {
@@ -529,18 +529,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dapodik.bekasikota.go.id.ico",
     "slug": "dapodik",
     "status": "up",
-    "uptime": "88.47%",
-    "uptimeDay": "88.47%",
-    "uptimeWeek": "88.47%",
-    "uptimeMonth": "88.47%",
-    "uptimeYear": "88.47%",
+    "uptime": "71.86%",
+    "uptimeDay": "71.86%",
+    "uptimeWeek": "71.86%",
+    "uptimeMonth": "71.86%",
+    "uptimeYear": "71.86%",
     "time": 5326,
     "timeDay": 5326,
     "timeWeek": 5326,
     "timeMonth": 5326,
     "timeYear": 5326,
     "dailyMinutesDown": {
-      "2023-03-04": 18
+      "2023-03-04": 54
     }
   },
   {
@@ -549,18 +549,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboardcc.bekasikota.go.id.ico",
     "slug": "dashboardcc",
     "status": "up",
-    "uptime": "93.68%",
-    "uptimeDay": "93.68%",
-    "uptimeWeek": "93.68%",
-    "uptimeMonth": "93.68%",
-    "uptimeYear": "93.68%",
+    "uptime": "76.06%",
+    "uptimeDay": "76.06%",
+    "uptimeWeek": "76.06%",
+    "uptimeMonth": "76.06%",
+    "uptimeYear": "76.06%",
     "time": 7393,
     "timeDay": 7393,
     "timeWeek": 7393,
     "timeMonth": 7393,
     "timeYear": 7393,
     "dailyMinutesDown": {
-      "2023-03-04": 10
+      "2023-03-04": 46
     }
   },
   {
@@ -569,18 +569,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/databpkad.bekasikota.go.id.ico",
     "slug": "databpkad",
     "status": "up",
-    "uptime": "94.14%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "94.14%",
-    "uptimeYear": "94.14%",
+    "uptime": "76.42%",
+    "uptimeDay": "76.42%",
+    "uptimeWeek": "76.42%",
+    "uptimeMonth": "76.42%",
+    "uptimeYear": "76.42%",
     "time": 5320,
     "timeDay": 5320,
     "timeWeek": 5320,
     "timeMonth": 5320,
     "timeYear": 5320,
     "dailyMinutesDown": {
-      "2023-03-04": 9
+      "2023-03-04": 45
     }
   },
   {
@@ -600,7 +600,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 162
+      "2023-03-04": 198
     }
   },
   {
@@ -609,18 +609,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dbmsda.bekasikota.go.id.ico",
     "slug": "dbmsda",
     "status": "down",
-    "uptime": "23.80%",
-    "uptimeDay": "23.80%",
-    "uptimeWeek": "23.80%",
-    "uptimeMonth": "23.80%",
-    "uptimeYear": "23.80%",
+    "uptime": "19.32%",
+    "uptimeDay": "19.32%",
+    "uptimeWeek": "19.32%",
+    "uptimeMonth": "19.32%",
+    "uptimeYear": "19.32%",
     "time": 1351,
     "timeDay": 1351,
     "timeWeek": 1351,
     "timeMonth": 1351,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2023-03-04": 118
+      "2023-03-04": 154
     }
   },
   {
@@ -646,19 +646,19 @@
     "url": "https://digitalegov.bekasikota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/digitalegov.bekasikota.go.id.ico",
     "slug": "digitalegov",
-    "status": "up",
-    "uptime": "59.42%",
-    "uptimeDay": "59.42%",
-    "uptimeWeek": "59.42%",
-    "uptimeMonth": "59.42%",
-    "uptimeYear": "59.42%",
+    "status": "down",
+    "uptime": "55.21%",
+    "uptimeDay": "55.21%",
+    "uptimeWeek": "55.21%",
+    "uptimeMonth": "55.21%",
+    "uptimeYear": "55.21%",
     "time": 6863,
     "timeDay": 6863,
     "timeWeek": 6863,
     "timeMonth": 6863,
     "timeYear": 6863,
     "dailyMinutesDown": {
-      "2023-03-04": 62
+      "2023-03-04": 85
     }
   },
   {
@@ -667,18 +667,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitaru.bekasikota.go.id.ico",
     "slug": "digitaru",
     "status": "up",
-    "uptime": "41.84%",
-    "uptimeDay": "41.84%",
-    "uptimeWeek": "41.84%",
-    "uptimeMonth": "41.84%",
-    "uptimeYear": "41.84%",
+    "uptime": "33.90%",
+    "uptimeDay": "33.90%",
+    "uptimeWeek": "33.90%",
+    "uptimeMonth": "33.90%",
+    "uptimeYear": "33.90%",
     "time": 6569,
     "timeDay": 6569,
     "timeWeek": 6569,
     "timeMonth": 6569,
     "timeYear": 6569,
     "dailyMinutesDown": {
-      "2023-03-04": 89
+      "2023-03-04": 125
     }
   },
   {
@@ -687,18 +687,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dinkes.bekasikota.go.id.ico",
     "slug": "dinkes",
     "status": "up",
-    "uptime": "42.13%",
-    "uptimeDay": "42.13%",
-    "uptimeWeek": "42.13%",
-    "uptimeMonth": "42.13%",
-    "uptimeYear": "42.13%",
+    "uptime": "34.14%",
+    "uptimeDay": "34.14%",
+    "uptimeWeek": "34.14%",
+    "uptimeMonth": "34.14%",
+    "uptimeYear": "34.14%",
     "time": 1431,
     "timeDay": 1431,
     "timeWeek": 1431,
     "timeMonth": 1431,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2023-03-04": 89
+      "2023-03-04": 125
     }
   },
   {
@@ -718,7 +718,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 159
+      "2023-03-04": 195
     }
   },
   {
@@ -727,18 +727,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disarpusda.bekasikota.go.id.ico",
     "slug": "disarpusda",
     "status": "down",
-    "uptime": "30.76%",
-    "uptimeDay": "30.76%",
-    "uptimeWeek": "30.76%",
-    "uptimeMonth": "30.76%",
-    "uptimeYear": "30.76%",
+    "uptime": "24.93%",
+    "uptimeDay": "24.93%",
+    "uptimeWeek": "24.93%",
+    "uptimeMonth": "24.93%",
+    "uptimeYear": "24.93%",
     "time": 2625,
     "timeDay": 2625,
     "timeWeek": 2625,
     "timeMonth": 2625,
     "timeYear": 2625,
     "dailyMinutesDown": {
-      "2023-03-04": 106
+      "2023-03-04": 142
     }
   },
   {
@@ -747,18 +747,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disdagperin.bekasikota.go.id.ico",
     "slug": "disdagperin",
     "status": "down",
-    "uptime": "30.80%",
-    "uptimeDay": "30.80%",
-    "uptimeWeek": "30.80%",
-    "uptimeMonth": "30.80%",
-    "uptimeYear": "30.80%",
+    "uptime": "24.95%",
+    "uptimeDay": "24.95%",
+    "uptimeWeek": "24.95%",
+    "uptimeMonth": "24.95%",
+    "uptimeYear": "24.95%",
     "time": 2789,
     "timeDay": 2789,
     "timeWeek": 2789,
     "timeMonth": 2789,
     "timeYear": 2789,
     "dailyMinutesDown": {
-      "2023-03-04": 106
+      "2023-03-04": 142
     }
   },
   {
@@ -767,18 +767,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disdik.bekasikota.go.id.ico",
     "slug": "disdik",
     "status": "up",
-    "uptime": "43.31%",
-    "uptimeDay": "43.31%",
-    "uptimeWeek": "43.31%",
-    "uptimeMonth": "43.31%",
-    "uptimeYear": "43.31%",
+    "uptime": "35.09%",
+    "uptimeDay": "35.09%",
+    "uptimeWeek": "35.09%",
+    "uptimeMonth": "35.09%",
+    "uptimeYear": "35.09%",
     "time": 7690,
     "timeDay": 7690,
     "timeWeek": 7690,
     "timeMonth": 7690,
     "timeYear": 7690,
     "dailyMinutesDown": {
-      "2023-03-04": 87
+      "2023-03-04": 123
     }
   },
   {
@@ -787,18 +787,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disdukcapil.bekasikota.go.id.ico",
     "slug": "disdukcapil",
     "status": "down",
-    "uptime": "30.89%",
-    "uptimeDay": "30.89%",
-    "uptimeWeek": "30.89%",
-    "uptimeMonth": "30.89%",
-    "uptimeYear": "30.89%",
+    "uptime": "25.02%",
+    "uptimeDay": "25.02%",
+    "uptimeWeek": "25.02%",
+    "uptimeMonth": "25.02%",
+    "uptimeYear": "25.02%",
     "time": 3081,
     "timeDay": 3081,
     "timeWeek": 3081,
     "timeMonth": 3081,
     "timeYear": 3081,
     "dailyMinutesDown": {
-      "2023-03-04": 106
+      "2023-03-04": 142
     }
   },
   {
@@ -807,18 +807,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dishub.bekasikota.go.id.ico",
     "slug": "dishub",
     "status": "down",
-    "uptime": "31.02%",
-    "uptimeDay": "31.02%",
-    "uptimeWeek": "31.02%",
-    "uptimeMonth": "31.02%",
-    "uptimeYear": "31.02%",
+    "uptime": "25.12%",
+    "uptimeDay": "25.12%",
+    "uptimeWeek": "25.12%",
+    "uptimeMonth": "25.12%",
+    "uptimeYear": "25.12%",
     "time": 3890,
     "timeDay": 3890,
     "timeWeek": 3890,
     "timeMonth": 3890,
     "timeYear": 3890,
     "dailyMinutesDown": {
-      "2023-03-04": 106
+      "2023-03-04": 142
     }
   },
   {
@@ -827,18 +827,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/diskominfo.bekasikota.go.id.ico",
     "slug": "diskominfo",
     "status": "up",
-    "uptime": "44.18%",
-    "uptimeDay": "44.18%",
-    "uptimeWeek": "44.18%",
-    "uptimeMonth": "44.18%",
-    "uptimeYear": "44.18%",
+    "uptime": "35.78%",
+    "uptimeDay": "35.78%",
+    "uptimeWeek": "35.78%",
+    "uptimeMonth": "35.78%",
+    "uptimeYear": "35.78%",
     "time": 6438,
     "timeDay": 6438,
     "timeWeek": 6438,
     "timeMonth": 6438,
     "timeYear": 6438,
     "dailyMinutesDown": {
-      "2023-03-04": 85
+      "2023-03-04": 121
     }
   },
   {
@@ -847,11 +847,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/disnaker.bekasikota.go.id.ico",
     "slug": "disnaker",
     "status": "up",
-    "uptime": "64.16%",
-    "uptimeDay": "64.16%",
-    "uptimeWeek": "64.16%",
-    "uptimeMonth": "64.16%",
-    "uptimeYear": "64.16%",
+    "uptime": "70.98%",
+    "uptimeDay": "70.98%",
+    "uptimeWeek": "70.98%",
+    "uptimeMonth": "70.98%",
+    "uptimeYear": "70.98%",
     "time": 2465,
     "timeDay": 2465,
     "timeWeek": 2465,
@@ -867,18 +867,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disparbud.bekasikota.go.id.ico",
     "slug": "disparbud",
     "status": "down",
-    "uptime": "59.50%",
-    "uptimeDay": "59.50%",
-    "uptimeWeek": "59.50%",
-    "uptimeMonth": "59.50%",
-    "uptimeYear": "59.50%",
+    "uptime": "48.18%",
+    "uptimeDay": "48.18%",
+    "uptimeWeek": "48.18%",
+    "uptimeMonth": "48.18%",
+    "uptimeYear": "48.18%",
     "time": 4556,
     "timeDay": 4556,
     "timeWeek": 4556,
     "timeMonth": 4556,
     "timeYear": 4556,
     "dailyMinutesDown": {
-      "2023-03-04": 62
+      "2023-03-04": 98
     }
   },
   {
@@ -887,18 +887,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disperkimtan.bekasikota.go.id.ico",
     "slug": "disperkimtan",
     "status": "down",
-    "uptime": "59.56%",
-    "uptimeDay": "59.56%",
-    "uptimeWeek": "59.56%",
-    "uptimeMonth": "59.56%",
-    "uptimeYear": "59.56%",
+    "uptime": "48.22%",
+    "uptimeDay": "48.22%",
+    "uptimeWeek": "48.22%",
+    "uptimeMonth": "48.22%",
+    "uptimeYear": "48.22%",
     "time": 2547,
     "timeDay": 2547,
     "timeWeek": 2547,
     "timeMonth": 2547,
     "timeYear": 2547,
     "dailyMinutesDown": {
-      "2023-03-04": 62
+      "2023-03-04": 97
     }
   },
   {
@@ -907,18 +907,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dispora.bekasikota.go.id.ico",
     "slug": "dispora",
     "status": "down",
-    "uptime": "59.69%",
-    "uptimeDay": "59.69%",
-    "uptimeWeek": "59.69%",
-    "uptimeMonth": "59.69%",
-    "uptimeYear": "59.69%",
+    "uptime": "48.33%",
+    "uptimeDay": "48.33%",
+    "uptimeWeek": "48.33%",
+    "uptimeMonth": "48.33%",
+    "uptimeYear": "48.33%",
     "time": 4220,
     "timeDay": 4220,
     "timeWeek": 4220,
     "timeMonth": 4220,
     "timeYear": 4220,
     "dailyMinutesDown": {
-      "2023-03-04": 61
+      "2023-03-04": 97
     }
   },
   {
@@ -927,18 +927,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/distaru.bekasikota.go.id.ico",
     "slug": "distaru",
     "status": "down",
-    "uptime": "59.79%",
-    "uptimeDay": "59.79%",
-    "uptimeWeek": "59.79%",
-    "uptimeMonth": "59.79%",
-    "uptimeYear": "59.79%",
+    "uptime": "48.41%",
+    "uptimeDay": "48.41%",
+    "uptimeWeek": "48.41%",
+    "uptimeMonth": "48.41%",
+    "uptimeYear": "48.41%",
     "time": 3569,
     "timeDay": 3569,
     "timeWeek": 3569,
     "timeMonth": 3569,
     "timeYear": 3569,
     "dailyMinutesDown": {
-      "2023-03-04": 61
+      "2023-03-04": 97
     }
   },
   {
@@ -947,18 +947,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dkppp.bekasikota.go.id.ico",
     "slug": "dkppp",
     "status": "down",
-    "uptime": "59.83%",
-    "uptimeDay": "59.83%",
-    "uptimeWeek": "59.83%",
-    "uptimeMonth": "59.83%",
-    "uptimeYear": "59.83%",
+    "uptime": "48.42%",
+    "uptimeDay": "48.42%",
+    "uptimeWeek": "48.42%",
+    "uptimeMonth": "48.42%",
+    "uptimeYear": "48.42%",
     "time": 2704,
     "timeDay": 2704,
     "timeWeek": 2704,
     "timeMonth": 2704,
     "timeYear": 2704,
     "dailyMinutesDown": {
-      "2023-03-04": 61
+      "2023-03-04": 97
     }
   },
   {
@@ -967,18 +967,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dkukm.bekasikota.go.id.ico",
     "slug": "dkukm",
     "status": "down",
-    "uptime": "22.57%",
-    "uptimeDay": "22.57%",
-    "uptimeWeek": "22.57%",
-    "uptimeMonth": "22.57%",
-    "uptimeYear": "22.57%",
+    "uptime": "18.26%",
+    "uptimeDay": "18.26%",
+    "uptimeWeek": "18.26%",
+    "uptimeMonth": "18.26%",
+    "uptimeYear": "18.26%",
     "time": 3712,
     "timeDay": 3712,
     "timeWeek": 3712,
     "timeMonth": 3712,
     "timeYear": 3712,
     "dailyMinutesDown": {
-      "2023-03-04": 118
+      "2023-03-04": 154
     }
   },
   {
@@ -1041,18 +1041,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dpppa.bekasikota.go.id.ico",
     "slug": "dpppa",
     "status": "down",
-    "uptime": "60.28%",
-    "uptimeDay": "60.28%",
-    "uptimeWeek": "60.28%",
-    "uptimeMonth": "60.28%",
-    "uptimeYear": "60.28%",
+    "uptime": "48.77%",
+    "uptimeDay": "48.77%",
+    "uptimeWeek": "48.77%",
+    "uptimeMonth": "48.77%",
+    "uptimeYear": "48.77%",
     "time": 4690,
     "timeDay": 4690,
     "timeWeek": 4690,
     "timeMonth": 4690,
     "timeYear": 4690,
     "dailyMinutesDown": {
-      "2023-03-04": 61
+      "2023-03-04": 97
     }
   },
   {
@@ -1079,18 +1079,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ebook-bappelitbangda.bekasikota.go.id.ico",
     "slug": "ebook-bappelitbangda",
     "status": "down",
-    "uptime": "24.91%",
-    "uptimeDay": "24.91%",
-    "uptimeWeek": "24.91%",
-    "uptimeMonth": "24.91%",
-    "uptimeYear": "24.91%",
+    "uptime": "20.14%",
+    "uptimeDay": "20.14%",
+    "uptimeWeek": "20.14%",
+    "uptimeMonth": "20.14%",
+    "uptimeYear": "20.14%",
     "time": 3381,
     "timeDay": 3381,
     "timeWeek": 3381,
     "timeMonth": 3381,
     "timeYear": 3381,
     "dailyMinutesDown": {
-      "2023-03-04": 115
+      "2023-03-04": 150
     }
   },
   {
@@ -1110,7 +1110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 155
+      "2023-03-04": 191
     }
   },
   {
@@ -1130,7 +1130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 154
+      "2023-03-04": 190
     }
   },
   {
@@ -1186,7 +1186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 155
+      "2023-03-04": 191
     }
   },
   {
@@ -1206,7 +1206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 155
+      "2023-03-04": 191
     }
   },
   {
@@ -1226,7 +1226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 151
+      "2023-03-04": 187
     }
   },
   {
@@ -1282,7 +1282,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 151
+      "2023-03-04": 187
     }
   },
   {
@@ -1392,7 +1392,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 149
+      "2023-03-04": 185
     }
   },
   {
@@ -1412,7 +1412,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 149
+      "2023-03-04": 185
     }
   },
   {
@@ -1421,11 +1421,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/inspektorat.bekasikota.go.id.ico",
     "slug": "inspektorat",
     "status": "up",
-    "uptime": "49.66%",
+    "uptime": "49.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.55%",
+    "uptimeYear": "28.56%",
     "time": 2000,
     "timeDay": 1155,
     "timeWeek": 1248,
@@ -2306,11 +2306,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jakasampurna.bekasikota.go.id.ico",
     "slug": "kel-jakasampurna",
     "status": "up",
-    "uptime": "89.11%",
-    "uptimeDay": "89.11%",
-    "uptimeWeek": "89.11%",
-    "uptimeMonth": "89.11%",
-    "uptimeYear": "89.11%",
+    "uptime": "91.23%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "91.23%",
+    "uptimeMonth": "91.23%",
+    "uptimeYear": "91.23%",
     "time": 1146,
     "timeDay": 1146,
     "timeWeek": 1146,
@@ -2344,11 +2344,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jatiasih.bekasikota.go.id.ico",
     "slug": "kel-jatiasih",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
+    "uptime": "99.11%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
     "time": 1114,
     "timeDay": 1114,
     "timeWeek": 1114,
@@ -2364,11 +2364,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jatibening.bekasikota.go.id.ico",
     "slug": "kel-jatibening",
     "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.26%",
+    "uptime": "99.40%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
     "time": 1137,
     "timeDay": 1137,
     "timeWeek": 1137,
@@ -2384,11 +2384,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jatibeningbaru.bekasikota.go.id.ico",
     "slug": "kel-jatibeningbaru",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.68%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 1124,
     "timeDay": 1124,
     "timeWeek": 1124,
@@ -2404,11 +2404,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jaticempaka.bekasikota.go.id.ico",
     "slug": "kel-jaticempaka",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 1137,
     "timeDay": 1137,
     "timeWeek": 1137,
@@ -2424,11 +2424,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jatikarya.bekasikota.go.id.ico",
     "slug": "kel-jatikarya",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1111,
     "timeDay": 1111,
     "timeWeek": 1111,
@@ -2444,11 +2444,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jatikramat.bekasikota.go.id.ico",
     "slug": "kel-jatikramat",
     "status": "up",
-    "uptime": "86.23%",
-    "uptimeDay": "86.23%",
-    "uptimeWeek": "86.23%",
-    "uptimeMonth": "86.23%",
-    "uptimeYear": "86.23%",
+    "uptime": "88.91%",
+    "uptimeDay": "88.91%",
+    "uptimeWeek": "88.91%",
+    "uptimeMonth": "88.91%",
+    "uptimeYear": "88.91%",
     "time": 1132,
     "timeDay": 1132,
     "timeWeek": 1132,
@@ -2464,11 +2464,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jatiluhur.bekasikota.go.id.ico",
     "slug": "kel-jatiluhur",
     "status": "up",
-    "uptime": "86.54%",
-    "uptimeDay": "86.54%",
-    "uptimeWeek": "86.54%",
-    "uptimeMonth": "86.54%",
-    "uptimeYear": "86.54%",
+    "uptime": "89.17%",
+    "uptimeDay": "89.17%",
+    "uptimeWeek": "89.17%",
+    "uptimeMonth": "89.17%",
+    "uptimeYear": "89.17%",
     "time": 1082,
     "timeDay": 1082,
     "timeWeek": 1082,
@@ -2484,11 +2484,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jatimakmur.bekasikota.go.id.ico",
     "slug": "kel-jatimakmur",
     "status": "up",
-    "uptime": "86.81%",
-    "uptimeDay": "86.81%",
-    "uptimeWeek": "86.81%",
-    "uptimeMonth": "86.81%",
-    "uptimeYear": "86.81%",
+    "uptime": "89.38%",
+    "uptimeDay": "89.38%",
+    "uptimeWeek": "89.38%",
+    "uptimeMonth": "89.38%",
+    "uptimeYear": "89.38%",
     "time": 1134,
     "timeDay": 1134,
     "timeWeek": 1134,
@@ -2504,11 +2504,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jatimekar.bekasikota.go.id.ico",
     "slug": "kel-jatimekar",
     "status": "up",
-    "uptime": "87.09%",
-    "uptimeDay": "87.09%",
-    "uptimeWeek": "87.09%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "87.09%",
+    "uptime": "89.61%",
+    "uptimeDay": "89.61%",
+    "uptimeWeek": "89.61%",
+    "uptimeMonth": "89.61%",
+    "uptimeYear": "89.61%",
     "time": 1145,
     "timeDay": 1145,
     "timeWeek": 1145,
@@ -2524,11 +2524,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-jatimelati.bekasikota.go.id.ico",
     "slug": "kel-jatimelati",
     "status": "up",
-    "uptime": "87.42%",
-    "uptimeDay": "87.42%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "87.42%",
-    "uptimeYear": "87.42%",
+    "uptime": "89.87%",
+    "uptimeDay": "89.87%",
+    "uptimeWeek": "89.87%",
+    "uptimeMonth": "89.87%",
+    "uptimeYear": "89.87%",
     "time": 1135,
     "timeDay": 1135,
     "timeWeek": 1135,
@@ -2724,18 +2724,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-kaliabangtengah.bekasikota.go.id.ico",
     "slug": "kel-kaliabangtengah",
     "status": "up",
-    "uptime": "38.74%",
-    "uptimeDay": "38.74%",
-    "uptimeWeek": "38.74%",
-    "uptimeMonth": "38.74%",
-    "uptimeYear": "38.74%",
+    "uptime": "31.19%",
+    "uptimeDay": "31.19%",
+    "uptimeWeek": "31.19%",
+    "uptimeMonth": "31.19%",
+    "uptimeYear": "31.19%",
     "time": 1137,
     "timeDay": 1137,
     "timeWeek": 1137,
     "timeMonth": 1137,
     "timeYear": 1137,
     "dailyMinutesDown": {
-      "2023-03-04": 91
+      "2023-03-04": 126
     }
   },
   {
@@ -2744,18 +2744,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-kalibaru.bekasikota.go.id.ico",
     "slug": "kel-kalibaru",
     "status": "up",
-    "uptime": "39.12%",
-    "uptimeDay": "39.12%",
-    "uptimeWeek": "39.12%",
-    "uptimeMonth": "39.12%",
-    "uptimeYear": "39.12%",
+    "uptime": "31.49%",
+    "uptimeDay": "31.49%",
+    "uptimeWeek": "31.49%",
+    "uptimeMonth": "31.49%",
+    "uptimeYear": "31.49%",
     "time": 1135,
     "timeDay": 1135,
     "timeWeek": 1135,
     "timeMonth": 1135,
     "timeYear": 1135,
     "dailyMinutesDown": {
-      "2023-03-04": 90
+      "2023-03-04": 126
     }
   },
   {
@@ -2764,18 +2764,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-kayuringinjaya.bekasikota.go.id.ico",
     "slug": "kel-kayuringinjaya",
     "status": "up",
-    "uptime": "39.47%",
-    "uptimeDay": "39.47%",
-    "uptimeWeek": "39.47%",
-    "uptimeMonth": "39.47%",
-    "uptimeYear": "39.47%",
+    "uptime": "31.77%",
+    "uptimeDay": "31.77%",
+    "uptimeWeek": "31.77%",
+    "uptimeMonth": "31.77%",
+    "uptimeYear": "31.77%",
     "time": 1131,
     "timeDay": 1131,
     "timeWeek": 1131,
     "timeMonth": 1131,
     "timeYear": 1131,
     "dailyMinutesDown": {
-      "2023-03-04": 89
+      "2023-03-04": 125
     }
   },
   {
@@ -2784,18 +2784,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-kotabaru.bekasikota.go.id.ico",
     "slug": "kel-kotabaru",
     "status": "up",
-    "uptime": "39.84%",
-    "uptimeDay": "39.84%",
-    "uptimeWeek": "39.84%",
-    "uptimeMonth": "39.84%",
-    "uptimeYear": "39.84%",
+    "uptime": "32.07%",
+    "uptimeDay": "32.07%",
+    "uptimeWeek": "32.07%",
+    "uptimeMonth": "32.07%",
+    "uptimeYear": "32.07%",
     "time": 1116,
     "timeDay": 1116,
     "timeWeek": 1116,
     "timeMonth": 1116,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2023-03-04": 89
+      "2023-03-04": 125
     }
   },
   {
@@ -2804,18 +2804,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-kranji.bekasikota.go.id.ico",
     "slug": "kel-kranji",
     "status": "up",
-    "uptime": "40.18%",
-    "uptimeDay": "40.18%",
-    "uptimeWeek": "40.18%",
-    "uptimeMonth": "40.18%",
-    "uptimeYear": "40.18%",
+    "uptime": "32.35%",
+    "uptimeDay": "32.35%",
+    "uptimeWeek": "32.35%",
+    "uptimeMonth": "32.35%",
+    "uptimeYear": "32.35%",
     "time": 1076,
     "timeDay": 1076,
     "timeWeek": 1076,
     "timeMonth": 1076,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2023-03-04": 88
+      "2023-03-04": 124
     }
   },
   {
@@ -2824,18 +2824,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-margahayu.bekasikota.go.id.ico",
     "slug": "kel-margahayu",
     "status": "up",
-    "uptime": "40.52%",
-    "uptimeDay": "40.52%",
-    "uptimeWeek": "40.52%",
-    "uptimeMonth": "40.52%",
-    "uptimeYear": "40.52%",
+    "uptime": "32.61%",
+    "uptimeDay": "32.61%",
+    "uptimeWeek": "32.61%",
+    "uptimeMonth": "32.61%",
+    "uptimeYear": "32.61%",
     "time": 1112,
     "timeDay": 1112,
     "timeWeek": 1112,
     "timeMonth": 1112,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2023-03-04": 88
+      "2023-03-04": 124
     }
   },
   {
@@ -2844,18 +2844,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-margajaya.bekasikota.go.id.ico",
     "slug": "kel-margajaya",
     "status": "up",
-    "uptime": "40.86%",
-    "uptimeDay": "40.86%",
-    "uptimeWeek": "40.86%",
-    "uptimeMonth": "40.86%",
-    "uptimeYear": "40.86%",
+    "uptime": "32.89%",
+    "uptimeDay": "32.89%",
+    "uptimeWeek": "32.89%",
+    "uptimeMonth": "32.89%",
+    "uptimeYear": "32.89%",
     "time": 1142,
     "timeDay": 1142,
     "timeWeek": 1142,
     "timeMonth": 1142,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2023-03-04": 87
+      "2023-03-04": 123
     }
   },
   {
@@ -2864,18 +2864,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-margamulya.bekasikota.go.id.ico",
     "slug": "kel-margamulya",
     "status": "up",
-    "uptime": "41.22%",
-    "uptimeDay": "41.22%",
-    "uptimeWeek": "41.22%",
-    "uptimeMonth": "41.22%",
-    "uptimeYear": "41.22%",
+    "uptime": "33.18%",
+    "uptimeDay": "33.18%",
+    "uptimeWeek": "33.18%",
+    "uptimeMonth": "33.18%",
+    "uptimeYear": "33.18%",
     "time": 1116,
     "timeDay": 1116,
     "timeWeek": 1116,
     "timeMonth": 1116,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2023-03-04": 87
+      "2023-03-04": 123
     }
   },
   {
@@ -2884,18 +2884,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-medansatria.bekasikota.go.id.ico",
     "slug": "kel-medansatria",
     "status": "up",
-    "uptime": "41.58%",
-    "uptimeDay": "41.58%",
-    "uptimeWeek": "41.58%",
-    "uptimeMonth": "41.58%",
-    "uptimeYear": "41.58%",
+    "uptime": "33.47%",
+    "uptimeDay": "33.47%",
+    "uptimeWeek": "33.47%",
+    "uptimeMonth": "33.47%",
+    "uptimeYear": "33.47%",
     "time": 1146,
     "timeDay": 1146,
     "timeWeek": 1146,
     "timeMonth": 1146,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2023-03-04": 86
+      "2023-03-04": 122
     }
   },
   {
@@ -2904,18 +2904,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-mustikajaya.bekasikota.go.id.ico",
     "slug": "kel-mustikajaya",
     "status": "up",
-    "uptime": "41.93%",
-    "uptimeDay": "41.93%",
-    "uptimeWeek": "41.93%",
-    "uptimeMonth": "41.93%",
-    "uptimeYear": "41.93%",
+    "uptime": "33.75%",
+    "uptimeDay": "33.75%",
+    "uptimeWeek": "33.75%",
+    "uptimeMonth": "33.75%",
+    "uptimeYear": "33.75%",
     "time": 1114,
     "timeDay": 1114,
     "timeWeek": 1114,
     "timeMonth": 1114,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2023-03-04": 86
+      "2023-03-04": 121
     }
   },
   {
@@ -2924,18 +2924,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-mustikasari.bekasikota.go.id.ico",
     "slug": "kel-mustikasari",
     "status": "up",
-    "uptime": "42.29%",
-    "uptimeDay": "42.29%",
-    "uptimeWeek": "42.29%",
-    "uptimeMonth": "42.29%",
-    "uptimeYear": "42.29%",
+    "uptime": "34.04%",
+    "uptimeDay": "34.04%",
+    "uptimeWeek": "34.04%",
+    "uptimeMonth": "34.04%",
+    "uptimeYear": "34.04%",
     "time": 1111,
     "timeDay": 1111,
     "timeWeek": 1111,
     "timeMonth": 1111,
     "timeYear": 1111,
     "dailyMinutesDown": {
-      "2023-03-04": 85
+      "2023-03-04": 121
     }
   },
   {
@@ -2944,18 +2944,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-padurenan.bekasikota.go.id.ico",
     "slug": "kel-padurenan",
     "status": "up",
-    "uptime": "42.64%",
-    "uptimeDay": "42.64%",
-    "uptimeWeek": "42.64%",
-    "uptimeMonth": "42.64%",
-    "uptimeYear": "42.64%",
+    "uptime": "34.33%",
+    "uptimeDay": "34.33%",
+    "uptimeWeek": "34.33%",
+    "uptimeMonth": "34.33%",
+    "uptimeYear": "34.33%",
     "time": 1134,
     "timeDay": 1134,
     "timeWeek": 1134,
     "timeMonth": 1134,
     "timeYear": 1134,
     "dailyMinutesDown": {
-      "2023-03-04": 85
+      "2023-03-04": 120
     }
   },
   {
@@ -2964,18 +2964,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-pejuang.bekasikota.go.id.ico",
     "slug": "kel-pejuang",
     "status": "up",
-    "uptime": "43.01%",
-    "uptimeDay": "43.01%",
-    "uptimeWeek": "43.01%",
-    "uptimeMonth": "43.01%",
-    "uptimeYear": "43.01%",
+    "uptime": "34.62%",
+    "uptimeDay": "34.62%",
+    "uptimeWeek": "34.62%",
+    "uptimeMonth": "34.62%",
+    "uptimeYear": "34.62%",
     "time": 1137,
     "timeDay": 1137,
     "timeWeek": 1137,
     "timeMonth": 1137,
     "timeYear": 1137,
     "dailyMinutesDown": {
-      "2023-03-04": 84
+      "2023-03-04": 120
     }
   },
   {
@@ -2984,18 +2984,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-pekayonjaya.bekasikota.go.id.ico",
     "slug": "kel-pekayonjaya",
     "status": "up",
-    "uptime": "43.35%",
-    "uptimeDay": "43.35%",
-    "uptimeWeek": "43.35%",
-    "uptimeMonth": "43.35%",
-    "uptimeYear": "43.35%",
+    "uptime": "34.90%",
+    "uptimeDay": "34.90%",
+    "uptimeWeek": "34.90%",
+    "uptimeMonth": "34.90%",
+    "uptimeYear": "34.90%",
     "time": 1077,
     "timeDay": 1077,
     "timeWeek": 1077,
     "timeMonth": 1077,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2023-03-04": 84
+      "2023-03-04": 119
     }
   },
   {
@@ -3004,18 +3004,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kel-pengasinan.bekasikota.go.id.ico",
     "slug": "kel-pengasinan",
     "status": "up",
-    "uptime": "43.71%",
-    "uptimeDay": "43.71%",
-    "uptimeWeek": "43.71%",
-    "uptimeMonth": "43.71%",
-    "uptimeYear": "43.71%",
+    "uptime": "35.19%",
+    "uptimeDay": "35.19%",
+    "uptimeWeek": "35.19%",
+    "uptimeMonth": "35.19%",
+    "uptimeYear": "35.19%",
     "time": 1113,
     "timeDay": 1113,
     "timeWeek": 1113,
     "timeMonth": 1113,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2023-03-04": 83
+      "2023-03-04": 119
     }
   },
   {
@@ -3077,19 +3077,19 @@
     "url": "https://kel-telukpucung.bekasikota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/kel-telukpucung.bekasikota.go.id.ico",
     "slug": "kel-telukpucung",
-    "status": "down",
-    "uptime": "76.49%",
-    "uptimeDay": "76.49%",
-    "uptimeWeek": "76.49%",
-    "uptimeMonth": "76.49%",
-    "uptimeYear": "76.49%",
-    "time": 1135,
-    "timeDay": 1135,
-    "timeWeek": 1135,
-    "timeMonth": 1135,
-    "timeYear": 1135,
+    "status": "up",
+    "uptime": "68.33%",
+    "uptimeDay": "68.33%",
+    "uptimeWeek": "68.33%",
+    "uptimeMonth": "68.33%",
+    "uptimeYear": "68.33%",
+    "time": 1207,
+    "timeDay": 1207,
+    "timeWeek": 1207,
+    "timeMonth": 1207,
+    "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-03-04": 35
+      "2023-03-04": 58
     }
   },
   {
@@ -3097,19 +3097,19 @@
     "url": "https://kelurahan.bekasikota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/kelurahan.bekasikota.go.id.ico",
     "slug": "kelurahan",
-    "status": "down",
-    "uptime": "88.85%",
-    "uptimeDay": "88.85%",
-    "uptimeWeek": "88.85%",
-    "uptimeMonth": "88.85%",
-    "uptimeYear": "88.85%",
-    "time": 1133,
-    "timeDay": 1133,
-    "timeWeek": 1133,
-    "timeMonth": 1133,
-    "timeYear": 1133,
+    "status": "up",
+    "uptime": "78.26%",
+    "uptimeDay": "78.26%",
+    "uptimeWeek": "78.26%",
+    "uptimeMonth": "78.26%",
+    "uptimeYear": "78.26%",
+    "time": 1164,
+    "timeDay": 1164,
+    "timeWeek": 1164,
+    "timeMonth": 1164,
+    "timeYear": 1164,
     "dailyMinutesDown": {
-      "2023-03-04": 16
+      "2023-03-04": 40
     }
   },
   {
@@ -3117,19 +3117,19 @@
     "url": "https://kerjasama.bekasikota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/kerjasama.bekasikota.go.id.ico",
     "slug": "kerjasama",
-    "status": "down",
-    "uptime": "89.21%",
-    "uptimeDay": "89.21%",
-    "uptimeWeek": "89.21%",
-    "uptimeMonth": "89.21%",
-    "uptimeYear": "89.21%",
-    "time": 1366,
-    "timeDay": 1366,
-    "timeWeek": 1366,
-    "timeMonth": 1366,
-    "timeYear": 1366,
+    "status": "up",
+    "uptime": "78.51%",
+    "uptimeDay": "78.51%",
+    "uptimeWeek": "78.51%",
+    "uptimeMonth": "78.51%",
+    "uptimeYear": "78.51%",
+    "time": 1439,
+    "timeDay": 1439,
+    "timeWeek": 1439,
+    "timeMonth": 1439,
+    "timeYear": 1439,
     "dailyMinutesDown": {
-      "2023-03-04": 16
+      "2023-03-04": 39
     }
   },
   {
@@ -3138,18 +3138,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kesbangpol.bekasikota.go.id.ico",
     "slug": "kesbangpol",
     "status": "down",
-    "uptime": "32.84%",
-    "uptimeDay": "32.84%",
-    "uptimeWeek": "32.84%",
-    "uptimeMonth": "32.84%",
-    "uptimeYear": "32.84%",
+    "uptime": "26.44%",
+    "uptimeDay": "26.44%",
+    "uptimeWeek": "26.44%",
+    "uptimeMonth": "26.44%",
+    "uptimeYear": "26.44%",
     "time": 2674,
     "timeDay": 2674,
     "timeWeek": 2674,
     "timeMonth": 2674,
     "timeYear": 2674,
     "dailyMinutesDown": {
-      "2023-03-04": 99
+      "2023-03-04": 135
     }
   },
   {
@@ -3157,19 +3157,19 @@
     "url": "https://klinikhukum.bekasikota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/klinikhukum.bekasikota.go.id.ico",
     "slug": "klinikhukum",
-    "status": "down",
-    "uptime": "89.93%",
-    "uptimeDay": "89.93%",
-    "uptimeWeek": "89.93%",
-    "uptimeMonth": "89.93%",
-    "uptimeYear": "89.93%",
-    "time": 1350,
-    "timeDay": 1350,
-    "timeWeek": 1350,
-    "timeMonth": 1350,
-    "timeYear": 1350,
+    "status": "up",
+    "uptime": "78.96%",
+    "uptimeDay": "78.96%",
+    "uptimeWeek": "78.96%",
+    "uptimeMonth": "78.96%",
+    "uptimeYear": "78.96%",
+    "time": 3542,
+    "timeDay": 3542,
+    "timeWeek": 3542,
+    "timeMonth": 3542,
+    "timeYear": 3542,
     "dailyMinutesDown": {
-      "2023-03-04": 15
+      "2023-03-04": 39
     }
   },
   {
@@ -3195,19 +3195,19 @@
     "url": "https://lantik.bekasikota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/lantik.bekasikota.go.id.ico",
     "slug": "lantik",
-    "status": "down",
-    "uptime": "90.35%",
-    "uptimeDay": "90.35%",
-    "uptimeWeek": "90.35%",
-    "uptimeMonth": "90.35%",
-    "uptimeYear": "90.35%",
-    "time": 1337,
-    "timeDay": 1337,
-    "timeWeek": 1337,
-    "timeMonth": 1337,
-    "timeYear": 1337,
+    "status": "up",
+    "uptime": "79.18%",
+    "uptimeDay": "79.18%",
+    "uptimeWeek": "79.18%",
+    "uptimeMonth": "79.18%",
+    "uptimeYear": "79.18%",
+    "time": 3213,
+    "timeDay": 3213,
+    "timeWeek": 3213,
+    "timeMonth": 3213,
+    "timeYear": 3213,
     "dailyMinutesDown": {
-      "2023-03-04": 14
+      "2023-03-04": 38
     }
   },
   {
@@ -3216,18 +3216,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.bekasikota.go.id.ico",
     "slug": "lpse",
     "status": "down",
-    "uptime": "4.53%",
-    "uptimeDay": "4.53%",
-    "uptimeWeek": "4.53%",
-    "uptimeMonth": "4.53%",
-    "uptimeYear": "4.53%",
+    "uptime": "3.64%",
+    "uptimeDay": "3.64%",
+    "uptimeWeek": "3.64%",
+    "uptimeMonth": "3.64%",
+    "uptimeYear": "3.64%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 141
+      "2023-03-04": 177
     }
   },
   {
@@ -3236,18 +3236,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.bekasikota.go.id.ico",
     "slug": "mail",
     "status": "down",
-    "uptime": "4.59%",
-    "uptimeDay": "4.59%",
-    "uptimeWeek": "4.59%",
-    "uptimeMonth": "4.59%",
-    "uptimeYear": "4.59%",
+    "uptime": "3.69%",
+    "uptimeDay": "3.69%",
+    "uptimeWeek": "3.69%",
+    "uptimeMonth": "3.69%",
+    "uptimeYear": "3.69%",
     "time": 1175,
     "timeDay": 1175,
     "timeWeek": 1175,
     "timeMonth": 1175,
     "timeYear": 1175,
     "dailyMinutesDown": {
-      "2023-03-04": 141
+      "2023-03-04": 176
     }
   },
   {
@@ -3256,18 +3256,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/manfaat-korpri.bekasikota.go.id.ico",
     "slug": "manfaat-korpri",
     "status": "down",
-    "uptime": "4.67%",
-    "uptimeDay": "4.67%",
-    "uptimeWeek": "4.67%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "4.67%",
+    "uptime": "3.76%",
+    "uptimeDay": "3.76%",
+    "uptimeWeek": "3.76%",
+    "uptimeMonth": "3.76%",
+    "uptimeYear": "3.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 141
+      "2023-03-04": 176
     }
   },
   {
@@ -3348,11 +3348,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/opdsisukma.bekasikota.go.id.ico",
     "slug": "opdsisukma",
     "status": "up",
-    "uptime": "88.74%",
-    "uptimeDay": "88.74%",
-    "uptimeWeek": "88.74%",
-    "uptimeMonth": "88.74%",
-    "uptimeYear": "88.74%",
+    "uptime": "90.94%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "90.94%",
+    "uptimeMonth": "90.94%",
+    "uptimeYear": "90.94%",
     "time": 1143,
     "timeDay": 1143,
     "timeWeek": 1143,
@@ -3368,11 +3368,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/optimize.bekasikota.go.id.ico",
     "slug": "optimize",
     "status": "up",
-    "uptime": "89.01%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "89.01%",
-    "uptimeMonth": "89.01%",
-    "uptimeYear": "89.01%",
+    "uptime": "91.16%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "91.16%",
+    "uptimeMonth": "91.16%",
+    "uptimeYear": "91.16%",
     "time": 1521,
     "timeDay": 1521,
     "timeWeek": 1521,
@@ -3388,11 +3388,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/panglima.bekasikota.go.id.ico",
     "slug": "panglima",
     "status": "up",
-    "uptime": "89.27%",
-    "uptimeDay": "89.27%",
-    "uptimeWeek": "89.27%",
-    "uptimeMonth": "89.27%",
-    "uptimeYear": "89.27%",
+    "uptime": "91.36%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "91.36%",
+    "uptimeYear": "91.36%",
     "time": 1836,
     "timeDay": 1836,
     "timeWeek": 1836,
@@ -3498,18 +3498,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pospbb.bekasikota.go.id.ico",
     "slug": "pospbb",
     "status": "down",
-    "uptime": "2.48%",
-    "uptimeDay": "2.48%",
-    "uptimeWeek": "2.48%",
-    "uptimeMonth": "2.48%",
-    "uptimeYear": "2.48%",
+    "uptime": "2.00%",
+    "uptimeDay": "2.00%",
+    "uptimeWeek": "2.00%",
+    "uptimeMonth": "2.00%",
+    "uptimeYear": "2.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 144
+      "2023-03-04": 179
     }
   },
   {
@@ -3518,18 +3518,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ppid.bekasikota.go.id.ico",
     "slug": "ppid",
     "status": "down",
-    "uptime": "3.20%",
-    "uptimeDay": "3.20%",
-    "uptimeWeek": "3.20%",
-    "uptimeMonth": "3.20%",
-    "uptimeYear": "3.20%",
+    "uptime": "2.58%",
+    "uptimeDay": "2.58%",
+    "uptimeWeek": "2.58%",
+    "uptimeMonth": "2.58%",
+    "uptimeYear": "2.58%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 141
+      "2023-03-04": 177
     }
   },
   {
@@ -3537,19 +3537,19 @@
     "url": "https://ppkm.bekasikota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/ppkm.bekasikota.go.id.ico",
     "slug": "ppkm",
-    "status": "down",
-    "uptime": "92.50%",
-    "uptimeDay": "92.50%",
-    "uptimeWeek": "92.50%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "92.50%",
-    "time": 1580,
-    "timeDay": 1580,
-    "timeWeek": 1580,
-    "timeMonth": 1580,
-    "timeYear": 1580,
+    "status": "up",
+    "uptime": "79.59%",
+    "uptimeDay": "79.59%",
+    "uptimeWeek": "79.59%",
+    "uptimeMonth": "79.59%",
+    "uptimeYear": "79.59%",
+    "time": 3566,
+    "timeDay": 3566,
+    "timeWeek": 3566,
+    "timeMonth": 3566,
+    "timeYear": 3566,
     "dailyMinutesDown": {
-      "2023-03-04": 11
+      "2023-03-04": 37
     }
   },
   {
@@ -3557,19 +3557,19 @@
     "url": "https://psw.bekasikota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/psw.bekasikota.go.id.ico",
     "slug": "psw",
-    "status": "down",
-    "uptime": "92.87%",
-    "uptimeDay": "92.87%",
-    "uptimeWeek": "92.87%",
-    "uptimeMonth": "92.87%",
-    "uptimeYear": "92.87%",
-    "time": 1137,
-    "timeDay": 1137,
-    "timeWeek": 1137,
-    "timeMonth": 1137,
-    "timeYear": 1137,
+    "status": "up",
+    "uptime": "79.82%",
+    "uptimeDay": "79.82%",
+    "uptimeWeek": "79.82%",
+    "uptimeMonth": "79.82%",
+    "uptimeYear": "79.82%",
+    "time": 3260,
+    "timeDay": 3260,
+    "timeWeek": 3260,
+    "timeMonth": 3260,
+    "timeYear": 3260,
     "dailyMinutesDown": {
-      "2023-03-04": 10
+      "2023-03-04": 37
     }
   },
   {
@@ -3578,18 +3578,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/puskesmas-kaliabangtengah.bekasikota.go.id.ico",
     "slug": "puskesmas-kaliabangtengah",
     "status": "down",
-    "uptime": "11.49%",
-    "uptimeDay": "11.49%",
-    "uptimeWeek": "11.49%",
-    "uptimeMonth": "11.49%",
-    "uptimeYear": "11.49%",
+    "uptime": "9.23%",
+    "uptimeDay": "9.23%",
+    "uptimeWeek": "9.23%",
+    "uptimeMonth": "9.23%",
+    "uptimeYear": "9.23%",
     "time": 1653,
     "timeDay": 1653,
     "timeWeek": 1653,
     "timeMonth": 1653,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2023-03-04": 129
+      "2023-03-04": 165
     }
   },
   {
@@ -3617,9 +3617,9 @@
     "slug": "rsud",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "0.00%",
     "time": 4893,
     "timeDay": 4381,
@@ -3627,7 +3627,7 @@
     "timeMonth": 4124,
     "timeYear": 4893,
     "dailyMinutesDown": {
-      "2023-03-04": 128,
+      "2023-03-04": 163,
       "2023-03-03": 12,
       "2023-02-21": 69,
       "2023-02-16": 64,
@@ -3928,11 +3928,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sakip.bekasikota.go.id.ico",
     "slug": "sakip",
     "status": "up",
-    "uptime": "73.65%",
-    "uptimeDay": "73.65%",
-    "uptimeWeek": "73.65%",
-    "uptimeMonth": "73.65%",
-    "uptimeYear": "73.65%",
+    "uptime": "78.83%",
+    "uptimeDay": "78.83%",
+    "uptimeWeek": "78.83%",
+    "uptimeMonth": "78.83%",
+    "uptimeYear": "78.83%",
     "time": 3138,
     "timeDay": 3138,
     "timeWeek": 3138,
@@ -3966,18 +3966,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/satpolpp.bekasikota.go.id.ico",
     "slug": "satpolpp",
     "status": "down",
-    "uptime": "11.87%",
-    "uptimeDay": "11.87%",
-    "uptimeWeek": "11.87%",
-    "uptimeMonth": "11.87%",
-    "uptimeYear": "11.87%",
+    "uptime": "9.53%",
+    "uptimeDay": "9.53%",
+    "uptimeWeek": "9.53%",
+    "uptimeMonth": "9.53%",
+    "uptimeYear": "9.53%",
     "time": 3125,
     "timeDay": 3125,
     "timeWeek": 3125,
     "timeMonth": 3125,
     "timeYear": 3125,
     "dailyMinutesDown": {
-      "2023-03-04": 128
+      "2023-03-04": 164
     }
   },
   {
@@ -4040,18 +4040,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/setda.bekasikota.go.id.ico",
     "slug": "setda",
     "status": "down",
-    "uptime": "11.99%",
-    "uptimeDay": "11.99%",
-    "uptimeWeek": "11.99%",
-    "uptimeMonth": "11.99%",
-    "uptimeYear": "11.99%",
+    "uptime": "9.63%",
+    "uptimeDay": "9.63%",
+    "uptimeWeek": "9.63%",
+    "uptimeMonth": "9.63%",
+    "uptimeYear": "9.63%",
     "time": 3387,
     "timeDay": 3387,
     "timeWeek": 3387,
     "timeMonth": 3387,
     "timeYear": 3387,
     "dailyMinutesDown": {
-      "2023-03-04": 128
+      "2023-03-04": 164
     }
   },
   {
@@ -4150,18 +4150,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sicandra.bekasikota.go.id.ico",
     "slug": "sicandra",
     "status": "down",
-    "uptime": "8.43%",
-    "uptimeDay": "8.43%",
-    "uptimeWeek": "8.43%",
-    "uptimeMonth": "8.43%",
-    "uptimeYear": "8.43%",
+    "uptime": "6.78%",
+    "uptimeDay": "6.78%",
+    "uptimeWeek": "6.78%",
+    "uptimeMonth": "6.78%",
+    "uptimeYear": "6.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 133
+      "2023-03-04": 169
     }
   },
   {
@@ -4170,18 +4170,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidalrek.bekasikota.go.id.ico",
     "slug": "sidalrek",
     "status": "down",
-    "uptime": "4.77%",
-    "uptimeDay": "4.77%",
-    "uptimeWeek": "4.77%",
-    "uptimeMonth": "4.77%",
-    "uptimeYear": "4.77%",
+    "uptime": "3.83%",
+    "uptimeDay": "3.83%",
+    "uptimeWeek": "3.83%",
+    "uptimeMonth": "3.83%",
+    "uptimeYear": "3.83%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 137
+      "2023-03-04": 173
     }
   },
   {
@@ -4190,18 +4190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidikjari.bekasikota.go.id.ico",
     "slug": "sidikjari",
     "status": "down",
-    "uptime": "6.61%",
-    "uptimeDay": "6.61%",
-    "uptimeWeek": "6.61%",
-    "uptimeMonth": "6.61%",
-    "uptimeYear": "6.61%",
+    "uptime": "5.31%",
+    "uptimeDay": "5.31%",
+    "uptimeWeek": "5.31%",
+    "uptimeMonth": "5.31%",
+    "uptimeYear": "5.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 135
+      "2023-03-04": 170
     }
   },
   {
@@ -4228,18 +4228,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siharsa.bekasikota.go.id.ico",
     "slug": "siharsa",
     "status": "down",
-    "uptime": "7.43%",
-    "uptimeDay": "7.43%",
-    "uptimeWeek": "7.43%",
-    "uptimeMonth": "7.43%",
-    "uptimeYear": "7.43%",
+    "uptime": "5.96%",
+    "uptimeDay": "5.96%",
+    "uptimeWeek": "5.96%",
+    "uptimeMonth": "5.96%",
+    "uptimeYear": "5.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 134
+      "2023-03-04": 170
     }
   },
   {
@@ -4302,18 +4302,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sijoni.bekasikota.go.id.ico",
     "slug": "sijoni",
     "status": "down",
-    "uptime": "7.48%",
-    "uptimeDay": "7.48%",
-    "uptimeWeek": "7.48%",
-    "uptimeMonth": "7.48%",
-    "uptimeYear": "7.48%",
+    "uptime": "5.99%",
+    "uptimeDay": "5.99%",
+    "uptimeWeek": "5.99%",
+    "uptimeMonth": "5.99%",
+    "uptimeYear": "5.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 134
+      "2023-03-04": 169
     }
   },
   {
@@ -4358,18 +4358,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sikepo.bekasikota.go.id.ico",
     "slug": "sikepo",
     "status": "down",
-    "uptime": "12.71%",
-    "uptimeDay": "12.71%",
-    "uptimeWeek": "12.71%",
-    "uptimeMonth": "12.71%",
-    "uptimeYear": "12.71%",
+    "uptime": "10.20%",
+    "uptimeDay": "10.20%",
+    "uptimeWeek": "10.20%",
+    "uptimeMonth": "10.20%",
+    "uptimeYear": "10.20%",
     "time": 2758,
     "timeDay": 2758,
     "timeWeek": 2758,
     "timeMonth": 2758,
     "timeYear": 2758,
     "dailyMinutesDown": {
-      "2023-03-04": 126
+      "2023-03-04": 161
     }
   },
   {
@@ -4396,18 +4396,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/silat.bekasikota.go.id.ico",
     "slug": "silat",
     "status": "down",
-    "uptime": "8.00%",
-    "uptimeDay": "8.00%",
-    "uptimeWeek": "8.00%",
-    "uptimeMonth": "8.00%",
-    "uptimeYear": "8.00%",
+    "uptime": "6.42%",
+    "uptimeDay": "6.42%",
+    "uptimeWeek": "6.42%",
+    "uptimeMonth": "6.42%",
+    "uptimeYear": "6.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 131
+      "2023-03-04": 167
     }
   },
   {
@@ -4434,18 +4434,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simblt.bekasikota.go.id.ico",
     "slug": "simblt",
     "status": "down",
-    "uptime": "8.15%",
-    "uptimeDay": "8.15%",
-    "uptimeWeek": "8.15%",
-    "uptimeMonth": "8.15%",
-    "uptimeYear": "8.15%",
+    "uptime": "6.53%",
+    "uptimeDay": "6.53%",
+    "uptimeWeek": "6.53%",
+    "uptimeMonth": "6.53%",
+    "uptimeYear": "6.53%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 131
+      "2023-03-04": 167
     }
   },
   {
@@ -4454,18 +4454,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simda.bekasikota.go.id.ico",
     "slug": "simda",
     "status": "down",
-    "uptime": "10.54%",
-    "uptimeDay": "10.54%",
-    "uptimeWeek": "10.54%",
-    "uptimeMonth": "10.54%",
-    "uptimeYear": "10.54%",
+    "uptime": "8.45%",
+    "uptimeDay": "8.45%",
+    "uptimeWeek": "8.45%",
+    "uptimeMonth": "8.45%",
+    "uptimeYear": "8.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 128
+      "2023-03-04": 164
     }
   },
   {
@@ -4474,18 +4474,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simda1.bekasikota.go.id.ico",
     "slug": "simda1",
     "status": "down",
-    "uptime": "8.35%",
-    "uptimeDay": "8.35%",
-    "uptimeWeek": "8.35%",
-    "uptimeMonth": "8.35%",
-    "uptimeYear": "8.35%",
+    "uptime": "6.69%",
+    "uptimeDay": "6.69%",
+    "uptimeWeek": "6.69%",
+    "uptimeMonth": "6.69%",
+    "uptimeYear": "6.69%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 131
+      "2023-03-04": 167
     }
   },
   {
@@ -4494,18 +4494,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simda2.bekasikota.go.id.ico",
     "slug": "simda2",
     "status": "down",
-    "uptime": "8.48%",
-    "uptimeDay": "8.48%",
-    "uptimeWeek": "8.48%",
-    "uptimeMonth": "8.48%",
-    "uptimeYear": "8.48%",
+    "uptime": "6.79%",
+    "uptimeDay": "6.79%",
+    "uptimeWeek": "6.79%",
+    "uptimeMonth": "6.79%",
+    "uptimeYear": "6.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 131
+      "2023-03-04": 166
     }
   },
   {
@@ -4550,18 +4550,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simpatda.bekasikota.go.id.ico",
     "slug": "simpatda",
     "status": "down",
-    "uptime": "9.66%",
-    "uptimeDay": "9.66%",
-    "uptimeWeek": "9.66%",
-    "uptimeMonth": "9.66%",
-    "uptimeYear": "9.66%",
+    "uptime": "7.75%",
+    "uptimeDay": "7.75%",
+    "uptimeWeek": "7.75%",
+    "uptimeMonth": "7.75%",
+    "uptimeYear": "7.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 130
+      "2023-03-04": 166
     }
   },
   {
@@ -4588,11 +4588,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/simpel-disparbud.bekasikota.go.id.ico",
     "slug": "simpel-disparbud",
     "status": "down",
-    "uptime": "56.70%",
-    "uptimeDay": "56.70%",
-    "uptimeWeek": "56.70%",
-    "uptimeMonth": "56.70%",
-    "uptimeYear": "56.70%",
+    "uptime": "65.32%",
+    "uptimeDay": "65.32%",
+    "uptimeWeek": "65.32%",
+    "uptimeMonth": "65.32%",
+    "uptimeYear": "65.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -4608,18 +4608,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simpelman-dbmsda.bekasikota.go.id.ico",
     "slug": "simpelman-dbmsda",
     "status": "down",
-    "uptime": "11.97%",
-    "uptimeDay": "11.97%",
-    "uptimeWeek": "11.97%",
-    "uptimeMonth": "11.97%",
-    "uptimeYear": "11.97%",
+    "uptime": "9.57%",
+    "uptimeDay": "9.57%",
+    "uptimeWeek": "9.57%",
+    "uptimeMonth": "9.57%",
+    "uptimeYear": "9.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 125
+      "2023-03-04": 160
     }
   },
   {
@@ -4628,18 +4628,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simpkl.bekasikota.go.id.ico",
     "slug": "simpkl",
     "status": "down",
-    "uptime": "12.85%",
-    "uptimeDay": "12.85%",
-    "uptimeWeek": "12.85%",
-    "uptimeMonth": "12.85%",
-    "uptimeYear": "12.85%",
+    "uptime": "10.28%",
+    "uptimeDay": "10.28%",
+    "uptimeWeek": "10.28%",
+    "uptimeMonth": "10.28%",
+    "uptimeYear": "10.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 124
+      "2023-03-04": 159
     }
   },
   {
@@ -4648,11 +4648,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/simpo.bekasikota.go.id.ico",
     "slug": "simpo",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.65%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 6613,
     "timeDay": 6613,
     "timeWeek": 6613,
@@ -4668,11 +4668,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/simpokasi.bekasikota.go.id.ico",
     "slug": "simpokasi",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.76%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 4650,
     "timeDay": 4650,
     "timeWeek": 4650,
@@ -4688,11 +4688,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sip3.bekasikota.go.id.ico",
     "slug": "sip3",
     "status": "up",
-    "uptime": "87.73%",
-    "uptimeDay": "87.73%",
-    "uptimeWeek": "87.73%",
-    "uptimeMonth": "87.73%",
-    "uptimeYear": "87.73%",
+    "uptime": "90.20%",
+    "uptimeDay": "90.20%",
+    "uptimeWeek": "90.20%",
+    "uptimeMonth": "90.20%",
+    "uptimeYear": "90.20%",
     "time": 1851,
     "timeDay": 1851,
     "timeWeek": 1851,
@@ -4708,18 +4708,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipas.bekasikota.go.id.ico",
     "slug": "sipas",
     "status": "down",
-    "uptime": "0.78%",
-    "uptimeDay": "0.78%",
-    "uptimeWeek": "0.78%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
+    "uptime": "0.63%",
+    "uptimeDay": "0.63%",
+    "uptimeWeek": "0.63%",
+    "uptimeMonth": "0.63%",
+    "uptimeYear": "0.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 140
+      "2023-03-04": 175
     }
   },
   {
@@ -4728,11 +4728,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipaten.bekasikota.go.id.ico",
     "slug": "sipaten",
     "status": "up",
-    "uptime": "88.38%",
-    "uptimeDay": "88.38%",
-    "uptimeWeek": "88.38%",
-    "uptimeMonth": "88.38%",
-    "uptimeYear": "88.38%",
+    "uptime": "90.72%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "90.72%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "90.72%",
     "time": 1202,
     "timeDay": 1202,
     "timeWeek": 1202,
@@ -4748,18 +4748,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipdah.bekasikota.go.id.ico",
     "slug": "sipdah",
     "status": "down",
-    "uptime": "1.61%",
-    "uptimeDay": "1.61%",
-    "uptimeWeek": "1.61%",
-    "uptimeMonth": "1.61%",
-    "uptimeYear": "1.61%",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 138
+      "2023-03-04": 173
     }
   },
   {
@@ -4768,18 +4768,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipeng.bekasikota.go.id.ico",
     "slug": "sipeng",
     "status": "up",
-    "uptime": "54.70%",
-    "uptimeDay": "54.70%",
-    "uptimeWeek": "54.70%",
-    "uptimeMonth": "54.70%",
-    "uptimeYear": "54.70%",
+    "uptime": "51.23%",
+    "uptimeDay": "51.23%",
+    "uptimeWeek": "51.23%",
+    "uptimeMonth": "51.23%",
+    "uptimeYear": "51.23%",
     "time": 10970,
     "timeDay": 10970,
     "timeWeek": 10970,
     "timeMonth": 10970,
     "timeYear": 10970,
     "dailyMinutesDown": {
-      "2023-03-04": 63
+      "2023-03-04": 85
     }
   },
   {
@@ -4788,18 +4788,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipenguber.bekasikota.go.id.ico",
     "slug": "sipenguber",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 138
+      "2023-03-04": 174
     }
   },
   {
@@ -4808,11 +4808,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipjalu.bekasikota.go.id.ico",
     "slug": "sipjalu",
     "status": "down",
-    "uptime": "46.03%",
-    "uptimeDay": "46.03%",
-    "uptimeWeek": "46.03%",
-    "uptimeMonth": "46.03%",
-    "uptimeYear": "46.03%",
+    "uptime": "57.05%",
+    "uptimeDay": "57.05%",
+    "uptimeWeek": "57.05%",
+    "uptimeMonth": "57.05%",
+    "uptimeYear": "57.05%",
     "time": 5301,
     "timeDay": 5301,
     "timeWeek": 5301,
@@ -4911,7 +4911,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 138
+      "2023-03-04": 173
     }
   },
   {
@@ -4920,11 +4920,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sisukma.bekasikota.go.id.ico",
     "slug": "sisukma",
     "status": "up",
-    "uptime": "62.54%",
-    "uptimeDay": "62.54%",
-    "uptimeWeek": "62.54%",
-    "uptimeMonth": "62.54%",
-    "uptimeYear": "62.54%",
+    "uptime": "70.22%",
+    "uptimeDay": "70.22%",
+    "uptimeWeek": "70.22%",
+    "uptimeMonth": "70.22%",
+    "uptimeYear": "70.22%",
     "time": 2789,
     "timeDay": 2789,
     "timeWeek": 2789,
@@ -4940,11 +4940,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sitaru.bekasikota.go.id.ico",
     "slug": "sitaru",
     "status": "up",
-    "uptime": "62.87%",
-    "uptimeDay": "62.87%",
-    "uptimeWeek": "62.87%",
-    "uptimeMonth": "62.87%",
-    "uptimeYear": "62.87%",
+    "uptime": "70.48%",
+    "uptimeDay": "70.48%",
+    "uptimeWeek": "70.48%",
+    "uptimeMonth": "70.48%",
+    "uptimeYear": "70.48%",
     "time": 1749,
     "timeDay": 1749,
     "timeWeek": 1749,
@@ -4960,11 +4960,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sitekar.bekasikota.go.id.ico",
     "slug": "sitekar",
     "status": "up",
-    "uptime": "63.15%",
-    "uptimeDay": "63.15%",
-    "uptimeWeek": "63.15%",
-    "uptimeMonth": "63.15%",
-    "uptimeYear": "63.15%",
+    "uptime": "70.71%",
+    "uptimeDay": "70.71%",
+    "uptimeWeek": "70.71%",
+    "uptimeMonth": "70.71%",
+    "uptimeYear": "70.71%",
     "time": 5544,
     "timeDay": 5544,
     "timeWeek": 5544,
@@ -4980,11 +4980,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/slimpro.bekasikota.go.id.ico",
     "slug": "slimpro",
     "status": "up",
-    "uptime": "63.43%",
-    "uptimeDay": "63.43%",
-    "uptimeWeek": "63.43%",
-    "uptimeMonth": "63.43%",
-    "uptimeYear": "63.43%",
+    "uptime": "70.93%",
+    "uptimeDay": "70.93%",
+    "uptimeWeek": "70.93%",
+    "uptimeMonth": "70.93%",
+    "uptimeYear": "70.93%",
     "time": 5312,
     "timeDay": 5312,
     "timeWeek": 5312,
@@ -5000,11 +5000,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartcity.bekasikota.go.id.ico",
     "slug": "smartcity",
     "status": "up",
-    "uptime": "63.70%",
-    "uptimeDay": "63.70%",
-    "uptimeWeek": "63.70%",
-    "uptimeMonth": "63.70%",
-    "uptimeYear": "63.70%",
+    "uptime": "71.15%",
+    "uptimeDay": "71.15%",
+    "uptimeWeek": "71.15%",
+    "uptimeMonth": "71.15%",
+    "uptimeYear": "71.15%",
     "time": 6444,
     "timeDay": 6444,
     "timeWeek": 6444,
@@ -5020,11 +5020,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smpn10.bekasikota.go.id.ico",
     "slug": "smpn10",
     "status": "up",
-    "uptime": "63.95%",
-    "uptimeDay": "63.95%",
-    "uptimeWeek": "63.95%",
-    "uptimeMonth": "63.95%",
-    "uptimeYear": "63.95%",
+    "uptime": "71.35%",
+    "uptimeDay": "71.35%",
+    "uptimeWeek": "71.35%",
+    "uptimeMonth": "71.35%",
+    "uptimeYear": "71.35%",
     "time": 5741,
     "timeDay": 5741,
     "timeWeek": 5741,
@@ -5040,11 +5040,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sohib.bekasikota.go.id.ico",
     "slug": "sohib",
     "status": "up",
-    "uptime": "64.22%",
-    "uptimeDay": "64.22%",
-    "uptimeWeek": "64.22%",
-    "uptimeMonth": "64.22%",
-    "uptimeYear": "64.22%",
+    "uptime": "71.57%",
+    "uptimeDay": "71.57%",
+    "uptimeWeek": "71.57%",
+    "uptimeMonth": "71.57%",
+    "uptimeYear": "71.57%",
     "time": 6753,
     "timeDay": 6753,
     "timeWeek": 6753,
@@ -5060,11 +5060,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sp2d.bekasikota.go.id.ico",
     "slug": "sp2d",
     "status": "up",
-    "uptime": "64.48%",
-    "uptimeDay": "64.48%",
-    "uptimeWeek": "64.48%",
-    "uptimeMonth": "64.48%",
-    "uptimeYear": "64.48%",
+    "uptime": "71.78%",
+    "uptimeDay": "71.78%",
+    "uptimeWeek": "71.78%",
+    "uptimeMonth": "71.78%",
+    "uptimeYear": "71.78%",
     "time": 5357,
     "timeDay": 5357,
     "timeWeek": 5357,
@@ -5080,11 +5080,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/splp.bekasikota.go.id.ico",
     "slug": "splp",
     "status": "up",
-    "uptime": "64.80%",
-    "uptimeDay": "64.80%",
-    "uptimeWeek": "64.80%",
-    "uptimeMonth": "64.80%",
-    "uptimeYear": "64.80%",
+    "uptime": "72.04%",
+    "uptimeDay": "72.04%",
+    "uptimeWeek": "72.04%",
+    "uptimeMonth": "72.04%",
+    "uptimeYear": "72.04%",
     "time": 3411,
     "timeDay": 3411,
     "timeWeek": 3411,
@@ -5100,11 +5100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.bekasikota.go.id.ico",
     "slug": "sso",
     "status": "up",
-    "uptime": "65.07%",
-    "uptimeDay": "65.07%",
-    "uptimeWeek": "65.07%",
-    "uptimeMonth": "65.07%",
-    "uptimeYear": "65.07%",
+    "uptime": "72.25%",
+    "uptimeDay": "72.25%",
+    "uptimeWeek": "72.25%",
+    "uptimeMonth": "72.25%",
+    "uptimeYear": "72.25%",
     "time": 3654,
     "timeDay": 3654,
     "timeWeek": 3654,
@@ -5120,11 +5120,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/surti.bekasikota.go.id.ico",
     "slug": "surti",
     "status": "up",
-    "uptime": "65.41%",
-    "uptimeDay": "65.41%",
-    "uptimeWeek": "65.41%",
-    "uptimeMonth": "65.41%",
-    "uptimeYear": "65.41%",
+    "uptime": "72.53%",
+    "uptimeDay": "72.53%",
+    "uptimeWeek": "72.53%",
+    "uptimeMonth": "72.53%",
+    "uptimeYear": "72.53%",
     "time": 2971,
     "timeDay": 2971,
     "timeWeek": 2971,
@@ -5140,18 +5140,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tabang.bekasikota.go.id.ico",
     "slug": "tabang",
     "status": "down",
-    "uptime": "0.37%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "0.37%",
-    "uptimeMonth": "0.37%",
-    "uptimeYear": "0.37%",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 136
+      "2023-03-04": 172
     }
   },
   {
@@ -5160,11 +5160,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tabulasidata.bekasikota.go.id.ico",
     "slug": "tabulasidata",
     "status": "up",
-    "uptime": "65.53%",
-    "uptimeDay": "65.53%",
-    "uptimeWeek": "65.53%",
-    "uptimeMonth": "65.53%",
-    "uptimeYear": "65.53%",
+    "uptime": "72.64%",
+    "uptimeDay": "72.64%",
+    "uptimeWeek": "72.64%",
+    "uptimeMonth": "72.64%",
+    "uptimeYear": "72.64%",
     "time": 4551,
     "timeDay": 4551,
     "timeWeek": 4551,
@@ -5180,11 +5180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkk.bekasikota.go.id.ico",
     "slug": "tkk",
     "status": "up",
-    "uptime": "53.48%",
-    "uptimeDay": "53.48%",
-    "uptimeWeek": "53.48%",
-    "uptimeMonth": "53.48%",
-    "uptimeYear": "53.48%",
+    "uptime": "63.08%",
+    "uptimeDay": "63.08%",
+    "uptimeWeek": "63.08%",
+    "uptimeMonth": "63.08%",
+    "uptimeYear": "63.08%",
     "time": 3790,
     "timeDay": 3790,
     "timeWeek": 3790,
@@ -5200,11 +5200,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tnde.bekasikota.go.id.ico",
     "slug": "tnde",
     "status": "up",
-    "uptime": "66.16%",
-    "uptimeDay": "66.16%",
-    "uptimeWeek": "66.16%",
-    "uptimeMonth": "66.16%",
-    "uptimeYear": "66.16%",
+    "uptime": "73.15%",
+    "uptimeDay": "73.15%",
+    "uptimeWeek": "73.15%",
+    "uptimeMonth": "73.15%",
+    "uptimeYear": "73.15%",
     "time": 3511,
     "timeDay": 3511,
     "timeWeek": 3511,
@@ -5256,18 +5256,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wbs.bekasikota.go.id.ico",
     "slug": "wbs",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 136
+      "2023-03-04": 171
     }
   },
   {
@@ -5276,11 +5276,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wisata.bekasikota.go.id.ico",
     "slug": "wisata",
     "status": "down",
-    "uptime": "47.01%",
-    "uptimeDay": "47.01%",
-    "uptimeWeek": "47.01%",
-    "uptimeMonth": "47.01%",
-    "uptimeYear": "47.01%",
+    "uptime": "57.97%",
+    "uptimeDay": "57.97%",
+    "uptimeWeek": "57.97%",
+    "uptimeMonth": "57.97%",
+    "uptimeYear": "57.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -5296,11 +5296,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wp.bekasikota.go.id.ico",
     "slug": "wp",
     "status": "up",
-    "uptime": "88.01%",
-    "uptimeDay": "88.01%",
-    "uptimeWeek": "88.01%",
-    "uptimeMonth": "88.01%",
-    "uptimeYear": "88.01%",
+    "uptime": "90.50%",
+    "uptimeDay": "90.50%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "90.50%",
+    "uptimeYear": "90.50%",
     "time": 1397,
     "timeDay": 1397,
     "timeWeek": 1397,
