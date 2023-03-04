@@ -12,10 +12,10 @@ sites:
     url: https://inspektorat.bekasikota.go.id
   - name: Sekretariat DPRD
     url: https://dprd.bekasikota.go.id
-  - name: Badan Kepegawaian, Pendidikan dan Pelatihan Daerah
-    url: https://bkppd.bekasikota.go.id
-  - name: Badan Perencanaan Pembangunan Daerah
-    url: https://bappeda.bekasikota.go.id
+  - name: Badan Kepegawaian, dan Pengembangan Sumber Daya Manusia 
+    url: https://bkpsdm.bekasikota.go.id
+  - name: Badan Perencanan Pembangunan dan Penelitian Pengembangan Daerah Kota Bekasi
+    url: https://bappelitbangda.bekasikota.go.id/
   - name: Badan Pengelolaan Keuangan dan Aset Daerah
     url: https://bpkad.bekasikota.go.id
   - name: Badan Pendapatan Daerah
@@ -24,8 +24,6 @@ sites:
     url: https://kesbangpol.bekasikota.go.id
   - name: Badan Penanggulangan Bencana Daerah
     url: https://bpbd.bekasikota.go.id
-  - name: Badan Penelitian dan Pengembangan Daerah
-    url: https://balitbang.bekasikota.go.id
   - name: Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu
     url: https://dpmptsp.bekasikota.go.id
   - name: Dinas Lingkungan Hidup
@@ -48,12 +46,10 @@ sites:
     url: https://dbmsda.bekasikota.go.id
   - name: Dinas Perumahan, Kawasan Permukiman dan Pertanahan
     url: https://disperkimtan.bekasikota.go.id
-  - name: Dinas Kearsipan
-    url: https://disarsip.bekasikota.go.id
+  - name: Dinas Arsip Dan Perpustakaan Daerah
+    url: https://disarpusda.bekasikota.go.id/
   - name: Dinas Pemberdayaan Perempuan dan Perlindungan Anak
     url: https://dpppa.bekasikota.go.id
-  - name: Dinas Perpustakaan Daerah
-    url: https://disperpus.bekasikota.go.id
   - name: Dinas Pengendalian Penduduk dan Keluarga Berencana
     url: https://dppkb.bekasikota.go.id
   - name: Dinas Pariwisata dan Kebudayaan
@@ -66,15 +62,13 @@ sites:
     url: https://dishub.bekasikota.go.id
   - name: Dinas Koperasi, Usaha Kecil dan Menengah
     url: https://dkukm.bekasikota.go.id
-  - name: Dinas Pertanian dan Perikanan
-    url: https://distanikan.bekasikota.go.id
+  - name: Dinas Ketahanan Pangan, Pertanian dan Perikanan
+    url: https://dkppp.bekasikota.go.id/
   - name: Dinas Perdagangan dan Perindustrian
     url: https://disdagperin.bekasikota.go.id
-  - name: Dinas Ketahanan Pangan
-    url: https://disketapang.bekasikota.go.id
   - name: Satpol PP
     url: https://satpolpp.bekasikota.go.id
-  - name: RSUD
+  - name: RSUD CAM Kota Bekasi
     url: https://rsud.bekasikota.go.id
   - name: Kecamatan Bekasi Timur
     url: https://kec-bekasitimur.bekasikota.go.id
@@ -100,7 +94,17 @@ sites:
     url: https://kec-bantargebang.bekasikota.go.id
   - name: Kecamatan Pondok Melati
     url: https://kec-pondokmelati.bekasikota.go.id
-
+  - name: PBJ KOta Bekasi
+    url: https://pbj.bekasikota.go.id
+  - name: PBJ KOta Bekasi
+    url: https://pbj.bekasikota.go.id
+  - name: Bagian Kerjasama Kota Bekasi
+    url: https://kerjasama.bekasikota.go.id
+  - name: Saker Humas Kota Bekasi
+    url: https://sakerhumas.bekasikota.go.id
+  - name: BPSK Kota Bekasi
+    url: https://bpsk.bekasikota.go.id
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
