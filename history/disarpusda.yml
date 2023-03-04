@@ -1,7 +1,7 @@
 url: https://disarpusda.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1411
-lastUpdated: 2023-03-04T22:39:45.709Z
+status: down
+code: 500
+responseTime: 1121
+lastUpdated: 2023-03-04T23:02:00.039Z
 startTime: Sat Mar 04 2023 16:47:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
