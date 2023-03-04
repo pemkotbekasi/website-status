@@ -1,7 +1,7 @@
 url: https://amdal.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1211
-lastUpdated: 2023-03-04T22:38:04.420Z
+status: down
+code: 500
+responseTime: 1112
+lastUpdated: 2023-03-04T23:00:22.485Z
 startTime: Sat Mar 04 2023 16:40:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
