@@ -1,7 +1,7 @@
 url: https://disparbud.bekasikota.go.id
-status: up
-code: 200
-responseTime: 3837
-lastUpdated: 2023-03-04T21:37:58.616Z
+status: down
+code: 500
+responseTime: 4398
+lastUpdated: 2023-03-04T22:13:25.013Z
 startTime: Sat Mar 04 2023 16:48:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
