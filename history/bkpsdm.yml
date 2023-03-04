@@ -1,7 +1,7 @@
 url: https://bkpsdm.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1905
-lastUpdated: 2023-03-04T18:25:44.593Z
+status: down
+code: 500
+responseTime: 4518
+lastUpdated: 2023-03-04T18:51:41.800Z
 startTime: Sat Mar 04 2023 16:41:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
