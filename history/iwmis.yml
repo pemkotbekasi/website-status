@@ -1,7 +1,7 @@
 url: https://iwmis.bekasikota.go.id
-status: up
-code: 200
-responseTime: 761
-lastUpdated: 2023-03-04T21:42:42.727Z
+status: down
+code: 500
+responseTime: 3646
+lastUpdated: 2023-03-05T05:58:51.852Z
 startTime: Sat Mar 04 2023 16:52:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
