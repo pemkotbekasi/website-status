@@ -126,8 +126,6 @@ sites:
     url: https://eofficev2.bekasikota.go.id
   - name: e-pbb
     url: https://e-pbb.bekasikota.go.id
-  - name: e-pbb
-    url: https://e-pbb.bekasikota.go.id
   - name: esht
     url: https://esht.bekasikota.go.id
   - name: e-sinjab
