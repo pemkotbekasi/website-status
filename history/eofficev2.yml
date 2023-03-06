@@ -1,7 +1,7 @@
 url: https://eofficev2.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1861
-lastUpdated: 2023-03-05T23:10:51.536Z
+status: down
+code: 502
+responseTime: 943
+lastUpdated: 2023-03-06T02:53:27.516Z
 startTime: Sat Mar 04 2023 16:50:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
