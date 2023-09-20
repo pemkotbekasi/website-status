@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BSRe",
+    "url": "https://api-bsre.bssn.go.id/v2",
+    "icon": "https://icons.duckduckgo.com/ip3/api-bsre.bssn.go.id.ico",
+    "slug": "bs-re",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1456,
+    "timeDay": 1456,
+    "timeWeek": 1456,
+    "timeMonth": 1456,
+    "timeYear": 1456,
+    "dailyMinutesDown": {}
+  }
+]

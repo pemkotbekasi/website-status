@@ -1,0 +1,53 @@
+## v{{nextRelease.version}} ({{datetime "UTC:yyyy-mm-dd"}})
+
+[📝 Release notes](https://github.com/{{owner}}/{{repo}}/releases/tag/v{{nextRelease.version}}){{#if compareUrl}} · [💻 Compare]({{compareUrl}}){{/if}} · [🔖 Tag](https://github.com/{{owner}}/{{repo}}/tree/v{{nextRelease.version}}) · 🗄️ Archive ([zip](https://github.com/{{owner}}/{{repo}}/archive/v{{nextRelease.version}}.zip) · [tar.gz](https://github.com/{{owner}}/{{repo}}/archive/v{{nextRelease.version}}.tar.gz))
+
+{{#with commits}}
+{{#if sparkles}}
+### ✨ New features
+
+{{#each sparkles}}- {{> commitTemplate}}{{/each}}
+{{/if}}
+
+{{#if recycle}}
+### ♻️ Updates
+
+{{#each recycle}}- {{> commitTemplate}}{{/each}}
+{{/if}}
+
+{{#if lipstick}}
+### 💄 Interface changes
+
+{{#each lipstick}}- {{> commitTemplate}}{{/each}}
+{{/if}}
+
+{{#if bug}}
+### 🐛 Bug fixes
+
+{{#each bug}}- {{> commitTemplate}}{{/each}}
+{{/if}}
+
+{{#if ambulance}}
+### 🚑 Critical hotfixes
+
+{{#each ambulance}}- {{> commitTemplate}}{{/each}}
+{{/if}}
+
+{{#if lock}}
+### 🔒 Security issues
+
+{{#each lock}}- {{> commitTemplate}}{{/each}}
+{{/if}}
+
+{{#if arrow_up}}
+### ⬆️ Dependency updates
+
+{{#each arrow_up}}- {{> commitTemplate}}{{/each}}
+{{/if}}
+
+{{#if boom}}
+### 💥 Breaking changes
+
+{{#each boom}}- {{> commitTemplate}}{{/each}}
+{{/if}}
+{{/with}}
