@@ -4,17 +4,19 @@
     "url": "https://api-bsre.bssn.go.id/v2",
     "icon": "https://icons.duckduckgo.com/ip3/api-bsre.bssn.go.id.ico",
     "slug": "bs-re",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1746,
-    "timeDay": 1258,
-    "timeWeek": 2031,
-    "timeMonth": 1746,
-    "timeYear": 1746,
-    "dailyMinutesDown": {}
+    "time": 1723,
+    "timeDay": 1344,
+    "timeWeek": 1956,
+    "timeMonth": 1723,
+    "timeYear": 1723,
+    "dailyMinutesDown": {
+      "2023-10-02": 0
+    }
   }
 ]
