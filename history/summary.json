@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-bsre.bssn.go.id.ico",
     "slug": "bs-re",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "94.85%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptime": "92.36%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.98%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "92.36%",
     "time": 1646,
-    "timeDay": 1212,
-    "timeWeek": 1837,
+    "timeDay": 0,
+    "timeWeek": 1930,
     "timeMonth": 1646,
     "timeYear": 1646,
     "dailyMinutesDown": {
-      "2023-10-03": 53,
+      "2023-10-04": 53,
+      "2023-10-03": 1440,
       "2023-10-02": 22
     }
   }
