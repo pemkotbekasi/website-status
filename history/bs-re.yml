@@ -1,7 +1,7 @@
 url: https://api-bsre.bssn.go.id/v2
-status: down
-code: 502
-responseTime: 5086
-lastUpdated: 2023-11-06T07:32:19.396Z
+status: up
+code: 200
+responseTime: 1163
+lastUpdated: 2023-11-06T07:42:27.864Z
 startTime: 2023-09-20T06:27:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
