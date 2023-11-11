@@ -10,8 +10,6 @@ sites:
     url: https://absensi.bekasikota.go.id
   - name: amdal
     url: https://amdal.bekasikota.go.id
-  - name: antrian
-    url: https://antrian.bekasikota.go.id
   - name: asb
     url: https://asb.bekasikota.go.id
   - name: ayokerja
