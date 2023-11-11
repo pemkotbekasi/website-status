@@ -14,8 +14,6 @@ sites:
     url: https://asb.bekasikota.go.id
   - name: ayokerja
     url: https://ayokerja.bekasikota.go.id
-  - name: bangkom
-    url: https://bangkom.bekasikota.go.id
   - name: bapenda
     url: https://bapenda.bekasikota.go.id
   - name: bappelitbangda
@@ -60,8 +58,6 @@ sites:
     url: https://dbdisnaker.bekasikota.go.id
   - name: dbmsda
     url: https://dbmsda.bekasikota.go.id
-  - name: digitalegov
-    url: https://digitalegov.bekasikota.go.id
   - name: digitaru
     url: https://digitaru.bekasikota.go.id
   - name: dinkes
@@ -104,14 +100,8 @@ sites:
     url: https://dpppa.bekasikota.go.id
   - name: dprd
     url: https://dprd.bekasikota.go.id
-  - name: ebook-bappelitbangda
-    url: https://ebook-bappelitbangda.bekasikota.go.id
   - name: ebphtb
     url: https://ebphtb.bekasikota.go.id
-  - name: eds
-    url: https://eds.bekasikota.go.id
-  - name: ensys
-    url: https://ensys.bekasikota.go.id
   - name: eofficev2
     url: https://eofficev2.bekasikota.go.id
   - name: e-pbb
