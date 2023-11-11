@@ -4,502 +4,494 @@ repo: website-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: BSRe
+  - name: BSRe API
     url: https://api-bsre.bssn.go.id/v2
-  # - name: absensi
-  #   url: https://absensi.bekasikota.go.id
-  # - name: admincc
-  #   url: https://admincc.bekasikota.go.id
-  # - name: amdal
-  #   url: https://amdal.bekasikota.go.id
-  # - name: antrian
-  #   url: https://antrian.bekasikota.go.id
-  # - name: asb
-  #   url: https://asb.bekasikota.go.id
-  # - name: ayokerja
-  #   url: https://ayokerja.bekasikota.go.id
-  # - name: bangkom
-  #   url: https://bangkom.bekasikota.go.id
-  # - name: bapenda
-  #   url: https://bapenda.bekasikota.go.id
-  # - name: bappelitbangda
-  #   url: https://bappelitbangda.bekasikota.go.id
-  # - name: best
-  #   url: https://best.bekasikota.go.id
-  # - name: bkpsdm
-  #   url: https://bkpsdm.bekasikota.go.id
-  # - name: blud
-  #   url: https://blud.bekasikota.go.id
-  # - name: bludpald
-  #   url: https://bludpald.bekasikota.go.id
-  # - name: bmd
-  #   url: https://bmd.bekasikota.go.id
-  # - name: bos
-  #   url: https://bos.bekasikota.go.id
-  # - name: bpbd
-  #   url: https://bpbd.bekasikota.go.id
-  # - name: bpkad
-  #   url: https://bpkad.bekasikota.go.id
-  # - name: bpsk
-  #   url: https://bpsk.bekasikota.go.id
-  # - name: bpum2022
-  #   url: https://bpum2022.bekasikota.go.id
-  # - name: brankas
-  #   url: https://brankas.bekasikota.go.id
-  # - name: cat
-  #   url: https://cat.bekasikota.go.id
-  # - name: cbm
-  #   url: https://cbm.bekasikota.go.id
-  # - name: corona
-  #   url: https://corona.bekasikota.go.id
-  # - name: damkar
-  #   url: https://damkar.bekasikota.go.id
-  # - name: danta
-  #   url: https://danta.bekasikota.go.id
-  # - name: danta-admin
-  #   url: https://danta-admin.bekasikota.go.id
-  # - name: dapodik
-  #   url: https://dapodik.bekasikota.go.id
-  # - name: dashboardcc
-  #   url: https://dashboardcc.bekasikota.go.id
-  # - name: databpkad
-  #   url: https://databpkad.bekasikota.go.id
-  # - name: dbdisnaker
-  #   url: https://dbdisnaker.bekasikota.go.id
-  # - name: dbmsda
-  #   url: https://dbmsda.bekasikota.go.id
-  # - name: developer
-  #   url: https://developer.bekasikota.go.id
-  # - name: digitalegov
-  #   url: https://digitalegov.bekasikota.go.id
-  # - name: digitaru
-  #   url: https://digitaru.bekasikota.go.id
-  # - name: dinkes
-  #   url: https://dinkes.bekasikota.go.id
-  # - name: dinsos
-  #   url: https://dinsos.bekasikota.go.id
-  # - name: disarpusda
-  #   url: https://disarpusda.bekasikota.go.id
-  # - name: disdagperin
-  #   url: https://disdagperin.bekasikota.go.id
-  # - name: disdik
-  #   url: https://disdik.bekasikota.go.id
-  # - name: disdukcapil
-  #   url: https://disdukcapil.bekasikota.go.id
-  # - name: dishub
-  #   url: https://dishub.bekasikota.go.id
-  # - name: diskominfo
-  #   url: https://diskominfo.bekasikota.go.id
-  # - name: disnaker
-  #   url: https://disnaker.bekasikota.go.id
-  # - name: disparbud
-  #   url: https://disparbud.bekasikota.go.id
-  # - name: disperkimtan
-  #   url: https://disperkimtan.bekasikota.go.id
-  # - name: dispora
-  #   url: https://dispora.bekasikota.go.id
-  # - name: distaru
-  #   url: https://distaru.bekasikota.go.id
-  # - name: dkppp
-  #   url: https://dkppp.bekasikota.go.id
-  # - name: dkukm
-  #   url: https://dkukm.bekasikota.go.id
-  # - name: dlh
-  #   url: https://dlh.bekasikota.go.id
-  # - name: dpmptsp
-  #   url: https://dpmptsp.bekasikota.go.id
-  # - name: dppkb
-  #   url: https://dppkb.bekasikota.go.id
-  # - name: dpppa
-  #   url: https://dpppa.bekasikota.go.id
-  # - name: dprd
-  #   url: https://dprd.bekasikota.go.id
-  # - name: ebook-bappelitbangda
-  #   url: https://ebook-bappelitbangda.bekasikota.go.id
-  # - name: ebphtb
-  #   url: https://ebphtb.bekasikota.go.id
-  # - name: eds
-  #   url: https://eds.bekasikota.go.id
-  # - name: ensys
-  #   url: https://ensys.bekasikota.go.id
-  # - name: eofficev2
-  #   url: https://eofficev2.bekasikota.go.id
-  # - name: e-pbb
-  #   url: https://e-pbb.bekasikota.go.id
-  # - name: esht
-  #   url: https://esht.bekasikota.go.id
-  # - name: e-sinjab
-  #   url: https://e-sinjab.bekasikota.go.id
-  # - name: e-sosial
-  #   url: https://e-sosial.bekasikota.go.id
-  # - name: esppt
-  #   url: https://esppt.bekasikota.go.id
-  # - name: e-tawa
-  #   url: https://e-tawa.bekasikota.go.id
-  # - name: ews
-  #   url: https://ews.bekasikota.go.id
-  # - name: eyeclick
-  #   url: https://eyeclick.bekasikota.go.id
-  # - name: face
-  #   url: https://face.bekasikota.go.id
-  # - name: firemap
-  #   url: https://firemap.bekasikota.go.id
-  # - name: gis
-  #   url: https://gis.bekasikota.go.id
-  # - name: idamantri
-  #   url: https://idamantri.bekasikota.go.id
-  # - name: inspektorat
-  #   url: https://inspektorat.bekasikota.go.id
-  # - name: iwmis
-  #   url: https://iwmis.bekasikota.go.id
-  # - name: jdih
-  #   url: https://jdih.bekasikota.go.id
-  # - name: jdih-dprd
-  #   url: https://jdih-dprd.bekasikota.go.id
-  # - name: kasda
-  #   url: https://kasda.bekasikota.go.id
-  # - name: k-cloud
-  #   url: https://k-cloud.bekasikota.go.id
-  # - name: kecamatan
-  #   url: https://kecamatan.bekasikota.go.id
-  # - name: kec-bantargebang
-  #   url: https://kec-bantargebang.bekasikota.go.id
-  # - name: kec-bekasibarat
-  #   url: https://kec-bekasibarat.bekasikota.go.id
-  # - name: kec-bekasiselatan
-  #   url: https://kec-bekasiselatan.bekasikota.go.id
-  # - name: kec-bekasitimur
-  #   url: https://kec-bekasitimur.bekasikota.go.id
-  # - name: kec-bekasiutara
-  #   url: https://kec-bekasiutara.bekasikota.go.id
-  # - name: kec-jatiasih
-  #   url: https://kec-jatiasih.bekasikota.go.id
-  # - name: kec-jatisampurna
-  #   url: https://kec-jatisampurna.bekasikota.go.id
-  # - name: kec-medansatria
-  #   url: https://kec-medansatria.bekasikota.go.id
-  # - name: kec-mustikajaya
-  #   url: https://kec-mustikajaya.bekasikota.go.id
-  # - name: kec-pondokgede
-  #   url: https://kec-pondokgede.bekasikota.go.id
-  # - name: kec-pondokmelati
-  #   url: https://kec-pondokmelati.bekasikota.go.id
-  # - name: kec-rawalumbu
-  #   url: https://kec-rawalumbu.bekasikota.go.id
-  # - name: kel-arenjaya
-  #   url: https://kel-arenjaya.bekasikota.go.id
-  # - name: kel-bantargebang
-  #   url: https://kel-bantargebang.bekasikota.go.id
-  # - name: kel-bekasijaya
-  #   url: https://kel-bekasijaya.bekasikota.go.id
-  # - name: kel-bintara
-  #   url: https://kel-bintara.bekasikota.go.id
-  # - name: kel-bintarajaya
-  #   url: https://kel-bintarajaya.bekasikota.go.id
-  # - name: kel-bojongmenteng
-  #   url: https://kel-bojongmenteng.bekasikota.go.id
-  # - name: kel-bojongrawalumbu
-  #   url: https://kel-bojongrawalumbu.bekasikota.go.id
-  # - name: kel-ciketingudik
-  #   url: https://kel-ciketingudik.bekasikota.go.id
-  # - name: kel-cikiwul
-  #   url: https://kel-cikiwul.bekasikota.go.id
-  # - name: kel-cimuning
-  #   url: https://kel-cimuning.bekasikota.go.id
-  # - name: kel-durenjaya
-  #   url: https://kel-durenjaya.bekasikota.go.id
-  # - name: kel-harapanbaru
-  #   url: https://kel-harapanbaru.bekasikota.go.id
-  # - name: kel-harapanjaya
-  #   url: https://kel-harapanjaya.bekasikota.go.id
-  # - name: kel-harapanmulya
-  #   url: https://kel-harapanmulya.bekasikota.go.id
-  # - name: kel-jakamulya
-  #   url: https://kel-jakamulya.bekasikota.go.id
-  # - name: kel-jakasampurna
-  #   url: https://kel-jakasampurna.bekasikota.go.id
-  # - name: kel-jakasetia
-  #   url: https://kel-jakasetia.bekasikota.go.id
-  # - name: kel-jatiasih
-  #   url: https://kel-jatiasih.bekasikota.go.id
-  # - name: kel-jatibening
-  #   url: https://kel-jatibening.bekasikota.go.id
-  # - name: kel-jatibeningbaru
-  #   url: https://kel-jatibeningbaru.bekasikota.go.id
-  # - name: kel-jaticempaka
-  #   url: https://kel-jaticempaka.bekasikota.go.id
-  # - name: kel-jatikarya
-  #   url: https://kel-jatikarya.bekasikota.go.id
-  # - name: kel-jatikramat
-  #   url: https://kel-jatikramat.bekasikota.go.id
-  # - name: kel-jatiluhur
-  #   url: https://kel-jatiluhur.bekasikota.go.id
-  # - name: kel-jatimakmur
-  #   url: https://kel-jatimakmur.bekasikota.go.id
-  # - name: kel-jatimekar
-  #   url: https://kel-jatimekar.bekasikota.go.id
-  # - name: kel-jatimelati
-  #   url: https://kel-jatimelati.bekasikota.go.id
-  # - name: kel-jatimurni
-  #   url: https://kel-jatimurni.bekasikota.go.id
-  # - name: kel-jatiraden
-  #   url: https://kel-jatiraden.bekasikota.go.id
-  # - name: kel-jatirahayu
-  #   url: https://kel-jatirahayu.bekasikota.go.id
-  # - name: kel-jatirangga
-  #   url: https://kel-jatirangga.bekasikota.go.id
-  # - name: kel-jatiranggon
-  #   url: https://kel-jatiranggon.bekasikota.go.id
-  # - name: kel-jatirasa
-  #   url: https://kel-jatirasa.bekasikota.go.id
-  # - name: kel-jatisampurna
-  #   url: https://kel-jatisampurna.bekasikota.go.id
-  # - name: kel-jatisari
-  #   url: https://kel-jatisari.bekasikota.go.id
-  # - name: kel-jatiwaringin
-  #   url: https://kel-jatiwaringin.bekasikota.go.id
-  # - name: kel-jatiwarna
-  #   url: https://kel-jatiwarna.bekasikota.go.id
-  # - name: kel-kaliabangtengah
-  #   url: https://kel-kaliabangtengah.bekasikota.go.id
-  # - name: kel-kalibaru
-  #   url: https://kel-kalibaru.bekasikota.go.id
-  # - name: kel-kayuringinjaya
-  #   url: https://kel-kayuringinjaya.bekasikota.go.id
-  # - name: kel-kotabaru
-  #   url: https://kel-kotabaru.bekasikota.go.id
-  # - name: kel-kranji
-  #   url: https://kel-kranji.bekasikota.go.id
-  # - name: kel-margahayu
-  #   url: https://kel-margahayu.bekasikota.go.id
-  # - name: kel-margajaya
-  #   url: https://kel-margajaya.bekasikota.go.id
-  # - name: kel-margamulya
-  #   url: https://kel-margamulya.bekasikota.go.id
-  # - name: kel-medansatria
-  #   url: https://kel-medansatria.bekasikota.go.id
-  # - name: kel-mustikajaya
-  #   url: https://kel-mustikajaya.bekasikota.go.id
-  # - name: kel-mustikasari
-  #   url: https://kel-mustikasari.bekasikota.go.id
-  # - name: kel-padurenan
-  #   url: https://kel-padurenan.bekasikota.go.id
-  # - name: kel-pejuang
-  #   url: https://kel-pejuang.bekasikota.go.id
-  # - name: kel-pekayonjaya
-  #   url: https://kel-pekayonjaya.bekasikota.go.id
-  # - name: kel-pengasinan
-  #   url: https://kel-pengasinan.bekasikota.go.id
-  # - name: kel-perwira
-  #   url: https://kel-perwira.bekasikota.go.id
-  # - name: kel-sepanjangjaya
-  #   url: https://kel-sepanjangjaya.bekasikota.go.id
-  # - name: kel-sumurbatu
-  #   url: https://kel-sumurbatu.bekasikota.go.id
-  # - name: kel-telukpucung
-  #   url: https://kel-telukpucung.bekasikota.go.id
-  # - name: kelurahan
-  #   url: https://kelurahan.bekasikota.go.id
-  # - name: kerjasama
-  #   url: https://kerjasama.bekasikota.go.id
-  # - name: kesbangpol
-  #   url: https://kesbangpol.bekasikota.go.id
-  # - name: klinikhukum
-  #   url: https://klinikhukum.bekasikota.go.id
-  # - name: korpri
-  #   url: https://korpri.bekasikota.go.id
-  # - name: lantik
-  #   url: https://lantik.bekasikota.go.id
-  # - name: lpse
-  #   url: https://lpse.bekasikota.go.id
-  # - name: mail
-  #   url: https://mail.bekasikota.go.id
-  # - name: manfaat-korpri
-  #   url: https://manfaat-korpri.bekasikota.go.id
-  # - name: monika
-  #   url: https://monika.bekasikota.go.id
-  # - name: motekar
-  #   url: https://motekar.bekasikota.go.id
-  # - name: mpokesi
-  #   url: https://mpokesi.bekasikota.go.id
-  # - name: mpp
-  #   url: https://mpp.bekasikota.go.id
-  # - name: opdsisukma
-  #   url: https://opdsisukma.bekasikota.go.id
-  # - name: optimize
-  #   url: https://optimize.bekasikota.go.id
-  # - name: panglima
-  #   url: https://panglima.bekasikota.go.id
-  # - name: pbj
-  #   url: https://pbj.bekasikota.go.id
-  # - name: pdss
-  #   url: https://pdss.bekasikota.go.id
-  # - name: pendaftaranpkl
-  #   url: https://pendaftaranpkl.bekasikota.go.id
-  # - name: pkpt
-  #   url: https://pkpt.bekasikota.go.id
-  # - name: portalwebsite
-  #   url: https://portalwebsite.bekasikota.go.id
-  # - name: pospbb
-  #   url: https://pospbb.bekasikota.go.id
-  # - name: ppid
-  #   url: https://ppid.bekasikota.go.id
-  # - name: ppkm
-  #   url: https://ppkm.bekasikota.go.id
-  # - name: psw
-  #   url: https://psw.bekasikota.go.id
-  # - name: puskesmas-kaliabangtengah
-  #   url: https://puskesmas-kaliabangtengah.bekasikota.go.id
-  # - name: rapor
-  #   url: https://rapor.bekasikota.go.id
-  # - name: rsud
-  #   url: https://rsud.bekasikota.go.id
-  # - name: sakerhumas
-  #   url: https://sakerhumas.bekasikota.go.id
-  # - name: sakip
-  #   url: https://sakip.bekasikota.go.id
-  # - name: sate
-  #   url: https://sate.bekasikota.go.id
-  # - name: satpolpp
-  #   url: https://satpolpp.bekasikota.go.id
-  # - name: satudata
-  #   url: https://satudata.bekasikota.go.id
-  # - name: sbm
-  #   url: https://sbm.bekasikota.go.id
-  # - name: sentimen
-  #   url: https://sentimen.bekasikota.go.id
-  # - name: setda
-  #   url: https://setda.bekasikota.go.id
-  # - name: sht
-  #   url: https://sht.bekasikota.go.id
-  # - name: siakip
-  #   url: https://siakip.bekasikota.go.id
-  # - name: siap
-  #   url: https://siap.bekasikota.go.id
-  # - name: siapd-dprd
-  #   url: https://siapd-dprd.bekasikota.go.id
-  # - name: sibandek
-  #   url: https://sibandek.bekasikota.go.id
-  # - name: sicandra
-  #   url: https://sicandra.bekasikota.go.id
-  # - name: sidalrek
-  #   url: https://sidalrek.bekasikota.go.id
-  # - name: sidikjari
-  #   url: https://sidikjari.bekasikota.go.id
-  # - name: siencang
-  #   url: https://siencang.bekasikota.go.id
-  # - name: siharsa
-  #   url: https://siharsa.bekasikota.go.id
-  # - name: siibeken
-  #   url: https://siibeken.bekasikota.go.id
-  # - name: sijampang
-  #   url: https://sijampang.bekasikota.go.id
-  # - name: sijiwa
-  #   url: https://sijiwa.bekasikota.go.id
-  # - name: sijoni
-  #   url: https://sijoni.bekasikota.go.id
-  # - name: sikasep
-  #   url: https://sikasep.bekasikota.go.id
-  # - name: sikat
-  #   url: https://sikat.bekasikota.go.id
-  # - name: sikepo
-  #   url: https://sikepo.bekasikota.go.id
-  # - name: sikerja
-  #   url: https://sikerja.bekasikota.go.id
-  # - name: silat
-  #   url: https://silat.bekasikota.go.id
-  # - name: simapan
-  #   url: https://simapan.bekasikota.go.id
-  # - name: simblt
-  #   url: https://simblt.bekasikota.go.id
-  # - name: simda
-  #   url: https://simda.bekasikota.go.id
-  # - name: simda1
-  #   url: https://simda1.bekasikota.go.id
-  # - name: simda2
-  #   url: https://simda2.bekasikota.go.id
-  # - name: simdara
-  #   url: https://simdara.bekasikota.go.id
-  # - name: simkerja
-  #   url: https://simkerja.bekasikota.go.id
-  # - name: simpatda
-  #   url: https://simpatda.bekasikota.go.id
-  # - name: simpelbang
-  #   url: https://simpelbang.bekasikota.go.id
-  # - name: simpel-disparbud
-  #   url: https://simpel-disparbud.bekasikota.go.id
-  # - name: simpelman-dbmsda
-  #   url: https://simpelman-dbmsda.bekasikota.go.id
-  # - name: simpkl
-  #   url: https://simpkl.bekasikota.go.id
-  # - name: simpo
-  #   url: https://simpo.bekasikota.go.id
-  # - name: simpokasi
-  #   url: https://simpokasi.bekasikota.go.id
-  # - name: sip3
-  #   url: https://sip3.bekasikota.go.id
-  # - name: sipas
-  #   url: https://sipas.bekasikota.go.id
-  # - name: sipaten
-  #   url: https://sipaten.bekasikota.go.id
-  # - name: sipdah
-  #   url: https://sipdah.bekasikota.go.id
-  # - name: sipeng
-  #   url: https://sipeng.bekasikota.go.id
-  # - name: sipenguber
-  #   url: https://sipenguber.bekasikota.go.id
-  # - name: sipjalu
-  #   url: https://sipjalu.bekasikota.go.id
-  # - name: sipkom
-  #   url: https://sipkom.bekasikota.go.id
-  # - name: sipo
-  #   url: https://sipo.bekasikota.go.id
-  # - name: sippp
-  #   url: https://sippp.bekasikota.go.id
-  # - name: sirenda
-  #   url: https://sirenda.bekasikota.go.id
-  # - name: sirida
-  #   url: https://sirida.bekasikota.go.id
-  # - name: sisukma
-  #   url: https://sisukma.bekasikota.go.id
-  # - name: sitaru
-  #   url: https://sitaru.bekasikota.go.id
-  # - name: sitekar
-  #   url: https://sitekar.bekasikota.go.id
-  # - name: slimpro
-  #   url: https://slimpro.bekasikota.go.id
-  # - name: smartcity
-  #   url: https://smartcity.bekasikota.go.id
-  # - name: smpn10
-  #   url: https://smpn10.bekasikota.go.id
-  # - name: sohib
-  #   url: https://sohib.bekasikota.go.id
-  # - name: sp2d
-  #   url: https://sp2d.bekasikota.go.id
-  # - name: splp
-  #   url: https://splp.bekasikota.go.id
-  # - name: sso
-  #   url: https://sso.bekasikota.go.id
-  # - name: surti
-  #   url: https://surti.bekasikota.go.id
-  # - name: tabang
-  #   url: https://tabang.bekasikota.go.id
-  # - name: tabulasidata
-  #   url: https://tabulasidata.bekasikota.go.id
-  # - name: tkk
-  #   url: https://tkk.bekasikota.go.id
-  # - name: tnde
-  #   url: https://tnde.bekasikota.go.id
-  # - name: tppkk
-  #   url: https://tppkk.bekasikota.go.id
-  # - name: udms
-  #   url: https://udms.bekasikota.go.id
-  # - name: wbs
-  #   url: https://wbs.bekasikota.go.id
-  # - name: wisata
-  #   url: https://wisata.bekasikota.go.id
-  # - name: wp
-  #   url: https://wp.bekasikota.go.id
+  - name: absensi
+    url: https://absensi.bekasikota.go.id
+  - name: amdal
+    url: https://amdal.bekasikota.go.id
+  - name: antrian
+    url: https://antrian.bekasikota.go.id
+  - name: asb
+    url: https://asb.bekasikota.go.id
+  - name: ayokerja
+    url: https://ayokerja.bekasikota.go.id
+  - name: bangkom
+    url: https://bangkom.bekasikota.go.id
+  - name: bapenda
+    url: https://bapenda.bekasikota.go.id
+  - name: bappelitbangda
+    url: https://bappelitbangda.bekasikota.go.id
+  - name: best
+    url: https://best.bekasikota.go.id
+  - name: bkpsdm
+    url: https://bkpsdm.bekasikota.go.id
+  - name: blud
+    url: https://blud.bekasikota.go.id
+  - name: bludpald
+    url: https://bludpald.bekasikota.go.id
+  - name: bmd
+    url: https://bmd.bekasikota.go.id
+  - name: bos
+    url: https://bos.bekasikota.go.id
+  - name: bpbd
+    url: https://bpbd.bekasikota.go.id
+  - name: bpkad
+    url: https://bpkad.bekasikota.go.id
+  - name: bpsk
+    url: https://bpsk.bekasikota.go.id
+  - name: bpum2022
+    url: https://bpum2022.bekasikota.go.id
+  - name: brankas
+    url: https://brankas.bekasikota.go.id
+  - name: cbm
+    url: https://cbm.bekasikota.go.id
+  - name: damkar
+    url: https://damkar.bekasikota.go.id
+  - name: danta
+    url: https://danta.bekasikota.go.id
+  - name: danta-admin
+    url: https://danta-admin.bekasikota.go.id
+  - name: dapodik
+    url: https://dapodik.bekasikota.go.id
+  - name: dashboardcc
+    url: https://dashboardcc.bekasikota.go.id
+  - name: databpkad
+    url: https://databpkad.bekasikota.go.id
+  - name: dbdisnaker
+    url: https://dbdisnaker.bekasikota.go.id
+  - name: dbmsda
+    url: https://dbmsda.bekasikota.go.id
+  - name: digitalegov
+    url: https://digitalegov.bekasikota.go.id
+  - name: digitaru
+    url: https://digitaru.bekasikota.go.id
+  - name: dinkes
+    url: https://dinkes.bekasikota.go.id
+  - name: dinsos
+    url: https://dinsos.bekasikota.go.id
+  - name: disarpusda
+    url: https://disarpusda.bekasikota.go.id
+  - name: disdagperin
+    url: https://disdagperin.bekasikota.go.id
+  - name: disdik
+    url: https://disdik.bekasikota.go.id
+  - name: disdukcapil
+    url: https://disdukcapil.bekasikota.go.id
+  - name: dishub
+    url: https://dishub.bekasikota.go.id
+  - name: diskominfo
+    url: https://diskominfo.bekasikota.go.id
+  - name: disnaker
+    url: https://disnaker.bekasikota.go.id
+  - name: disparbud
+    url: https://disparbud.bekasikota.go.id
+  - name: disperkimtan
+    url: https://disperkimtan.bekasikota.go.id
+  - name: dispora
+    url: https://dispora.bekasikota.go.id
+  - name: distaru
+    url: https://distaru.bekasikota.go.id
+  - name: dkppp
+    url: https://dkppp.bekasikota.go.id
+  - name: dkukm
+    url: https://dkukm.bekasikota.go.id
+  - name: dlh
+    url: https://dlh.bekasikota.go.id
+  - name: dpmptsp
+    url: https://dpmptsp.bekasikota.go.id
+  - name: dppkb
+    url: https://dppkb.bekasikota.go.id
+  - name: dpppa
+    url: https://dpppa.bekasikota.go.id
+  - name: dprd
+    url: https://dprd.bekasikota.go.id
+  - name: ebook-bappelitbangda
+    url: https://ebook-bappelitbangda.bekasikota.go.id
+  - name: ebphtb
+    url: https://ebphtb.bekasikota.go.id
+  - name: eds
+    url: https://eds.bekasikota.go.id
+  - name: ensys
+    url: https://ensys.bekasikota.go.id
+  - name: eofficev2
+    url: https://eofficev2.bekasikota.go.id
+  - name: e-pbb
+    url: https://e-pbb.bekasikota.go.id
+  - name: esht
+    url: https://esht.bekasikota.go.id
+  - name: e-sinjab
+    url: https://e-sinjab.bekasikota.go.id
+  - name: e-sosial
+    url: https://e-sosial.bekasikota.go.id
+  - name: esppt
+    url: https://esppt.bekasikota.go.id
+  - name: e-tawa
+    url: https://e-tawa.bekasikota.go.id
+  - name: ews
+    url: https://ews.bekasikota.go.id
+  - name: eyeclick
+    url: https://eyeclick.bekasikota.go.id
+  - name: face
+    url: https://face.bekasikota.go.id
+  - name: firemap
+    url: https://firemap.bekasikota.go.id
+  - name: gis
+    url: https://gis.bekasikota.go.id
+  - name: idamantri
+    url: https://idamantri.bekasikota.go.id
+  - name: inspektorat
+    url: https://inspektorat.bekasikota.go.id
+  - name: iwmis
+    url: https://iwmis.bekasikota.go.id
+  - name: jdih
+    url: https://jdih.bekasikota.go.id
+  - name: jdih-dprd
+    url: https://jdih-dprd.bekasikota.go.id
+  - name: kasda
+    url: https://kasda.bekasikota.go.id
+  - name: k-cloud
+    url: https://k-cloud.bekasikota.go.id
+  - name: kecamatan
+    url: https://kecamatan.bekasikota.go.id
+  - name: kec-bantargebang
+    url: https://kec-bantargebang.bekasikota.go.id
+  - name: kec-bekasibarat
+    url: https://kec-bekasibarat.bekasikota.go.id
+  - name: kec-bekasiselatan
+    url: https://kec-bekasiselatan.bekasikota.go.id
+  - name: kec-bekasitimur
+    url: https://kec-bekasitimur.bekasikota.go.id
+  - name: kec-bekasiutara
+    url: https://kec-bekasiutara.bekasikota.go.id
+  - name: kec-jatiasih
+    url: https://kec-jatiasih.bekasikota.go.id
+  - name: kec-jatisampurna
+    url: https://kec-jatisampurna.bekasikota.go.id
+  - name: kec-medansatria
+    url: https://kec-medansatria.bekasikota.go.id
+  - name: kec-mustikajaya
+    url: https://kec-mustikajaya.bekasikota.go.id
+  - name: kec-pondokgede
+    url: https://kec-pondokgede.bekasikota.go.id
+  - name: kec-pondokmelati
+    url: https://kec-pondokmelati.bekasikota.go.id
+  - name: kec-rawalumbu
+    url: https://kec-rawalumbu.bekasikota.go.id
+  - name: kel-arenjaya
+    url: https://kel-arenjaya.bekasikota.go.id
+  - name: kel-bantargebang
+    url: https://kel-bantargebang.bekasikota.go.id
+  - name: kel-bekasijaya
+    url: https://kel-bekasijaya.bekasikota.go.id
+  - name: kel-bintara
+    url: https://kel-bintara.bekasikota.go.id
+  - name: kel-bintarajaya
+    url: https://kel-bintarajaya.bekasikota.go.id
+  - name: kel-bojongmenteng
+    url: https://kel-bojongmenteng.bekasikota.go.id
+  - name: kel-bojongrawalumbu
+    url: https://kel-bojongrawalumbu.bekasikota.go.id
+  - name: kel-ciketingudik
+    url: https://kel-ciketingudik.bekasikota.go.id
+  - name: kel-cikiwul
+    url: https://kel-cikiwul.bekasikota.go.id
+  - name: kel-cimuning
+    url: https://kel-cimuning.bekasikota.go.id
+  - name: kel-durenjaya
+    url: https://kel-durenjaya.bekasikota.go.id
+  - name: kel-harapanbaru
+    url: https://kel-harapanbaru.bekasikota.go.id
+  - name: kel-harapanjaya
+    url: https://kel-harapanjaya.bekasikota.go.id
+  - name: kel-harapanmulya
+    url: https://kel-harapanmulya.bekasikota.go.id
+  - name: kel-jakamulya
+    url: https://kel-jakamulya.bekasikota.go.id
+  - name: kel-jakasampurna
+    url: https://kel-jakasampurna.bekasikota.go.id
+  - name: kel-jakasetia
+    url: https://kel-jakasetia.bekasikota.go.id
+  - name: kel-jatiasih
+    url: https://kel-jatiasih.bekasikota.go.id
+  - name: kel-jatibening
+    url: https://kel-jatibening.bekasikota.go.id
+  - name: kel-jatibeningbaru
+    url: https://kel-jatibeningbaru.bekasikota.go.id
+  - name: kel-jaticempaka
+    url: https://kel-jaticempaka.bekasikota.go.id
+  - name: kel-jatikarya
+    url: https://kel-jatikarya.bekasikota.go.id
+  - name: kel-jatikramat
+    url: https://kel-jatikramat.bekasikota.go.id
+  - name: kel-jatiluhur
+    url: https://kel-jatiluhur.bekasikota.go.id
+  - name: kel-jatimakmur
+    url: https://kel-jatimakmur.bekasikota.go.id
+  - name: kel-jatimekar
+    url: https://kel-jatimekar.bekasikota.go.id
+  - name: kel-jatimelati
+    url: https://kel-jatimelati.bekasikota.go.id
+  - name: kel-jatimurni
+    url: https://kel-jatimurni.bekasikota.go.id
+  - name: kel-jatiraden
+    url: https://kel-jatiraden.bekasikota.go.id
+  - name: kel-jatirahayu
+    url: https://kel-jatirahayu.bekasikota.go.id
+  - name: kel-jatirangga
+    url: https://kel-jatirangga.bekasikota.go.id
+  - name: kel-jatiranggon
+    url: https://kel-jatiranggon.bekasikota.go.id
+  - name: kel-jatirasa
+    url: https://kel-jatirasa.bekasikota.go.id
+  - name: kel-jatisampurna
+    url: https://kel-jatisampurna.bekasikota.go.id
+  - name: kel-jatisari
+    url: https://kel-jatisari.bekasikota.go.id
+  - name: kel-jatiwaringin
+    url: https://kel-jatiwaringin.bekasikota.go.id
+  - name: kel-jatiwarna
+    url: https://kel-jatiwarna.bekasikota.go.id
+  - name: kel-kaliabangtengah
+    url: https://kel-kaliabangtengah.bekasikota.go.id
+  - name: kel-kalibaru
+    url: https://kel-kalibaru.bekasikota.go.id
+  - name: kel-kayuringinjaya
+    url: https://kel-kayuringinjaya.bekasikota.go.id
+  - name: kel-kotabaru
+    url: https://kel-kotabaru.bekasikota.go.id
+  - name: kel-kranji
+    url: https://kel-kranji.bekasikota.go.id
+  - name: kel-margahayu
+    url: https://kel-margahayu.bekasikota.go.id
+  - name: kel-margajaya
+    url: https://kel-margajaya.bekasikota.go.id
+  - name: kel-margamulya
+    url: https://kel-margamulya.bekasikota.go.id
+  - name: kel-medansatria
+    url: https://kel-medansatria.bekasikota.go.id
+  - name: kel-mustikajaya
+    url: https://kel-mustikajaya.bekasikota.go.id
+  - name: kel-mustikasari
+    url: https://kel-mustikasari.bekasikota.go.id
+  - name: kel-padurenan
+    url: https://kel-padurenan.bekasikota.go.id
+  - name: kel-pejuang
+    url: https://kel-pejuang.bekasikota.go.id
+  - name: kel-pekayonjaya
+    url: https://kel-pekayonjaya.bekasikota.go.id
+  - name: kel-pengasinan
+    url: https://kel-pengasinan.bekasikota.go.id
+  - name: kel-perwira
+    url: https://kel-perwira.bekasikota.go.id
+  - name: kel-sepanjangjaya
+    url: https://kel-sepanjangjaya.bekasikota.go.id
+  - name: kel-sumurbatu
+    url: https://kel-sumurbatu.bekasikota.go.id
+  - name: kel-telukpucung
+    url: https://kel-telukpucung.bekasikota.go.id
+  - name: kelurahan
+    url: https://kelurahan.bekasikota.go.id
+  - name: kerjasama
+    url: https://kerjasama.bekasikota.go.id
+  - name: kesbangpol
+    url: https://kesbangpol.bekasikota.go.id
+  - name: klinikhukum
+    url: https://klinikhukum.bekasikota.go.id
+  - name: korpri
+    url: https://korpri.bekasikota.go.id
+  - name: lantik
+    url: https://lantik.bekasikota.go.id
+  - name: lpse
+    url: https://lpse.bekasikota.go.id
+  - name: mail
+    url: https://mail.bekasikota.go.id
+  - name: manfaat-korpri
+    url: https://manfaat-korpri.bekasikota.go.id
+  - name: monika
+    url: https://monika.bekasikota.go.id
+  - name: motekar
+    url: https://motekar.bekasikota.go.id
+  - name: mpokesi
+    url: https://mpokesi.bekasikota.go.id
+  - name: mpp
+    url: https://mpp.bekasikota.go.id
+  - name: opdsisukma
+    url: https://opdsisukma.bekasikota.go.id
+  - name: optimize
+    url: https://optimize.bekasikota.go.id
+  - name: panglima
+    url: https://panglima.bekasikota.go.id
+  - name: pbj
+    url: https://pbj.bekasikota.go.id
+  - name: pdss
+    url: https://pdss.bekasikota.go.id
+  - name: pendaftaranpkl
+    url: https://pendaftaranpkl.bekasikota.go.id
+  - name: pkpt
+    url: https://pkpt.bekasikota.go.id
+  - name: portalwebsite
+    url: https://portalwebsite.bekasikota.go.id
+  - name: pospbb
+    url: https://pospbb.bekasikota.go.id
+  - name: ppid
+    url: https://ppid.bekasikota.go.id
+  - name: ppkm
+    url: https://ppkm.bekasikota.go.id
+  - name: psw
+    url: https://psw.bekasikota.go.id
+  - name: puskesmas-kaliabangtengah
+    url: https://puskesmas-kaliabangtengah.bekasikota.go.id
+  - name: rapor
+    url: https://rapor.bekasikota.go.id
+  - name: rsud
+    url: https://rsud.bekasikota.go.id
+  - name: sakerhumas
+    url: https://sakerhumas.bekasikota.go.id
+  - name: sakip
+    url: https://sakip.bekasikota.go.id
+  - name: sate
+    url: https://sate.bekasikota.go.id
+  - name: satpolpp
+    url: https://satpolpp.bekasikota.go.id
+  - name: satudata
+    url: https://satudata.bekasikota.go.id
+  - name: sbm
+    url: https://sbm.bekasikota.go.id
+  - name: sentimen
+    url: https://sentimen.bekasikota.go.id
+  - name: setda
+    url: https://setda.bekasikota.go.id
+  - name: sht
+    url: https://sht.bekasikota.go.id
+  - name: siakip
+    url: https://siakip.bekasikota.go.id
+  - name: siap
+    url: https://siap.bekasikota.go.id
+  - name: siapd-dprd
+    url: https://siapd-dprd.bekasikota.go.id
+  - name: sibandek
+    url: https://sibandek.bekasikota.go.id
+  - name: sicandra
+    url: https://sicandra.bekasikota.go.id
+  - name: sidalrek
+    url: https://sidalrek.bekasikota.go.id
+  - name: sidikjari
+    url: https://sidikjari.bekasikota.go.id
+  - name: siencang
+    url: https://siencang.bekasikota.go.id
+  - name: siharsa
+    url: https://siharsa.bekasikota.go.id
+  - name: siibeken
+    url: https://siibeken.bekasikota.go.id
+  - name: sijampang
+    url: https://sijampang.bekasikota.go.id
+  - name: sijiwa
+    url: https://sijiwa.bekasikota.go.id
+  - name: sijoni
+    url: https://sijoni.bekasikota.go.id
+  - name: sikasep
+    url: https://sikasep.bekasikota.go.id
+  - name: sikat
+    url: https://sikat.bekasikota.go.id
+  - name: sikepo
+    url: https://sikepo.bekasikota.go.id
+  - name: sikerja
+    url: https://sikerja.bekasikota.go.id
+  - name: silat
+    url: https://silat.bekasikota.go.id
+  - name: simapan
+    url: https://simapan.bekasikota.go.id
+  - name: simblt
+    url: https://simblt.bekasikota.go.id
+  - name: simda
+    url: https://simda.bekasikota.go.id
+  - name: simda1
+    url: https://simda1.bekasikota.go.id
+  - name: simda2
+    url: https://simda2.bekasikota.go.id
+  - name: simdara
+    url: https://simdara.bekasikota.go.id
+  - name: simkerja
+    url: https://simkerja.bekasikota.go.id
+  - name: simpatda
+    url: https://simpatda.bekasikota.go.id
+  - name: simpelbang
+    url: https://simpelbang.bekasikota.go.id
+  - name: simpel-disparbud
+    url: https://simpel-disparbud.bekasikota.go.id
+  - name: simpelman-dbmsda
+    url: https://simpelman-dbmsda.bekasikota.go.id
+  - name: simpkl
+    url: https://simpkl.bekasikota.go.id
+  - name: simpo
+    url: https://simpo.bekasikota.go.id
+  - name: simpokasi
+    url: https://simpokasi.bekasikota.go.id
+  - name: sip3
+    url: https://sip3.bekasikota.go.id
+  - name: sipas
+    url: https://sipas.bekasikota.go.id
+  - name: sipaten
+    url: https://sipaten.bekasikota.go.id
+  - name: sipdah
+    url: https://sipdah.bekasikota.go.id
+  - name: sipeng
+    url: https://sipeng.bekasikota.go.id
+  - name: sipenguber
+    url: https://sipenguber.bekasikota.go.id
+  - name: sipjalu
+    url: https://sipjalu.bekasikota.go.id
+  - name: sipkom
+    url: https://sipkom.bekasikota.go.id
+  - name: sipo
+    url: https://sipo.bekasikota.go.id
+  - name: sippp
+    url: https://sippp.bekasikota.go.id
+  - name: sirenda
+    url: https://sirenda.bekasikota.go.id
+  - name: sirida
+    url: https://sirida.bekasikota.go.id
+  - name: sisukma
+    url: https://sisukma.bekasikota.go.id
+  - name: sitaru
+    url: https://sitaru.bekasikota.go.id
+  - name: sitekar
+    url: https://sitekar.bekasikota.go.id
+  - name: slimpro
+    url: https://slimpro.bekasikota.go.id
+  - name: smartcity
+    url: https://smartcity.bekasikota.go.id
+  - name: smpn10
+    url: https://smpn10.bekasikota.go.id
+  - name: sohib
+    url: https://sohib.bekasikota.go.id
+  - name: sp2d
+    url: https://sp2d.bekasikota.go.id
+  - name: splp
+    url: https://splp.bekasikota.go.id
+  - name: sso
+    url: https://sso.bekasikota.go.id
+  - name: surti
+    url: https://surti.bekasikota.go.id
+  - name: tabang
+    url: https://tabang.bekasikota.go.id
+  - name: tabulasidata
+    url: https://tabulasidata.bekasikota.go.id
+  - name: tkk
+    url: https://tkk.bekasikota.go.id
+  - name: tnde
+    url: https://tnde.bekasikota.go.id
+  - name: tppkk
+    url: https://tppkk.bekasikota.go.id
+  - name: udms
+    url: https://udms.bekasikota.go.id
+  - name: wbs
+    url: https://wbs.bekasikota.go.id
+  - name: wisata
+    url: https://wisata.bekasikota.go.id
+  - name: wp
+    url: https://wp.bekasikota.go.id
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
