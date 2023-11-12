@@ -1,7 +1,7 @@
 url: https://bappelitbangda.bekasikota.go.id
-status: up
-code: 200
-responseTime: 6464
-lastUpdated: 2023-11-11T23:29:21.087Z
+status: down
+code: 503
+responseTime: 1101
+lastUpdated: 2023-11-12T02:23:07.130Z
 startTime: 2023-11-11T05:57:23.729Z
 generator: Upptime <https://github.com/upptime/upptime>
