@@ -1,7 +1,7 @@
 url: https://dlh.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1779
-lastUpdated: 2023-11-20T02:40:50.469Z
+status: down
+code: 503
+responseTime: 1230
+lastUpdated: 2023-11-20T03:29:05.041Z
 startTime: 2023-11-11T05:59:02.739Z
 generator: Upptime <https://github.com/upptime/upptime>
