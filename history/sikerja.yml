@@ -1,7 +1,7 @@
 url: https://sikerja.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1250
-lastUpdated: 2023-11-22T14:32:40.306Z
+status: down
+code: 503
+responseTime: 11254
+lastUpdated: 2023-11-23T14:02:48.556Z
 startTime: 2023-11-11T06:10:04.171Z
 generator: Upptime <https://github.com/upptime/upptime>
