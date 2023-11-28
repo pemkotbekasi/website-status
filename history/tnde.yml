@@ -1,7 +1,7 @@
 url: https://tnde.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1159
-lastUpdated: 2023-11-27T23:26:18.179Z
+status: down
+code: 503
+responseTime: 985
+lastUpdated: 2023-11-28T03:45:50.489Z
 startTime: 2023-11-11T06:13:40.919Z
 generator: Upptime <https://github.com/upptime/upptime>
