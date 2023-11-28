@@ -1,7 +1,7 @@
 url: https://surti.bekasikota.go.id
-status: up
-code: 200
-responseTime: 932
-lastUpdated: 2023-11-27T23:25:42.477Z
+status: down
+code: 503
+responseTime: 984
+lastUpdated: 2023-11-28T03:45:11.909Z
 startTime: 2023-11-11T06:13:01.794Z
 generator: Upptime <https://github.com/upptime/upptime>
