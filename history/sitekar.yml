@@ -1,7 +1,7 @@
 url: https://sitekar.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1107
-lastUpdated: 2023-11-27T23:25:27.878Z
+status: down
+code: 503
+responseTime: 11034
+lastUpdated: 2023-11-28T04:44:54.044Z
 startTime: 2023-11-11T06:12:36.958Z
 generator: Upptime <https://github.com/upptime/upptime>
