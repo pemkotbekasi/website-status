@@ -1,7 +1,7 @@
 url: https://kel-jatisari.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1257
-lastUpdated: 2023-12-02T23:17:44.191Z
+status: down
+code: 503
+responseTime: 1250
+lastUpdated: 2023-12-03T21:57:59.616Z
 startTime: 2023-11-11T06:03:43.615Z
 generator: Upptime <https://github.com/upptime/upptime>
