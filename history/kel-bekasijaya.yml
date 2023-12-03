@@ -1,7 +1,7 @@
 url: https://kel-bekasijaya.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1259
-lastUpdated: 2023-12-02T23:16:50.844Z
+status: down
+code: 503
+responseTime: 923
+lastUpdated: 2023-12-03T22:16:31.723Z
 startTime: 2023-11-11T06:02:49.239Z
 generator: Upptime <https://github.com/upptime/upptime>
