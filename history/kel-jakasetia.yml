@@ -1,7 +1,7 @@
 url: https://kel-jakasetia.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1266
-lastUpdated: 2023-12-02T23:17:14.213Z
+status: down
+code: 503
+responseTime: 928
+lastUpdated: 2023-12-03T22:17:14.976Z
 startTime: 2023-11-11T06:03:13.074Z
 generator: Upptime <https://github.com/upptime/upptime>
