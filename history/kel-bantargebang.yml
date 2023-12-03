@@ -1,7 +1,7 @@
 url: https://kel-bantargebang.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1281
-lastUpdated: 2023-12-02T23:16:49.179Z
+status: down
+code: 503
+responseTime: 933
+lastUpdated: 2023-12-03T22:16:28.675Z
 startTime: 2023-11-11T06:02:47.467Z
 generator: Upptime <https://github.com/upptime/upptime>
