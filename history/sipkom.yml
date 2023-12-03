@@ -1,7 +1,7 @@
 url: https://sipkom.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1573
-lastUpdated: 2023-12-02T23:24:58.824Z
+status: down
+code: 503
+responseTime: 1219
+lastUpdated: 2023-12-03T22:06:36.660Z
 startTime: 2023-11-11T06:12:08.428Z
 generator: Upptime <https://github.com/upptime/upptime>
