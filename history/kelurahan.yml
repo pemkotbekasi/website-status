@@ -1,7 +1,7 @@
 url: https://kelurahan.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1268
-lastUpdated: 2023-12-02T23:18:20.861Z
+status: down
+code: 503
+responseTime: 1219
+lastUpdated: 2023-12-03T21:59:54.228Z
 startTime: 2023-11-11T06:04:21.133Z
 generator: Upptime <https://github.com/upptime/upptime>
