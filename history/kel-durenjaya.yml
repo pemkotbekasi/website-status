@@ -1,7 +1,7 @@
 url: https://kel-durenjaya.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1295
-lastUpdated: 2023-12-02T23:17:04.189Z
+status: down
+code: 503
+responseTime: 927
+lastUpdated: 2023-12-03T22:16:56.262Z
 startTime: 2023-11-11T06:03:02.870Z
 generator: Upptime <https://github.com/upptime/upptime>
