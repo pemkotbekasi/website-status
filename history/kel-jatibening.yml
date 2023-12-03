@@ -1,7 +1,7 @@
 url: https://kel-jatibening.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1206
-lastUpdated: 2023-12-02T23:17:17.438Z
+status: down
+code: 503
+responseTime: 962
+lastUpdated: 2023-12-03T22:17:21.146Z
 startTime: 2023-11-11T06:03:16.481Z
 generator: Upptime <https://github.com/upptime/upptime>
