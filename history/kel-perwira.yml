@@ -1,7 +1,7 @@
 url: https://kel-perwira.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1261
-lastUpdated: 2023-12-02T23:18:14.169Z
+status: down
+code: 503
+responseTime: 1258
+lastUpdated: 2023-12-03T21:59:33.273Z
 startTime: 2023-11-11T06:04:14.277Z
 generator: Upptime <https://github.com/upptime/upptime>
