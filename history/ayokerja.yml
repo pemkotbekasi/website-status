@@ -1,7 +1,7 @@
 url: https://ayokerja.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2201
-lastUpdated: 2023-12-09T23:10:18.559Z
+status: down
+code: 503
+responseTime: 1432
+lastUpdated: 2023-12-10T06:58:59.298Z
 startTime: 2023-11-11T05:56:49.051Z
 generator: Upptime <https://github.com/upptime/upptime>
