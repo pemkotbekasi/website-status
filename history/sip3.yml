@@ -1,7 +1,7 @@
 url: https://sip3.bekasikota.go.id
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-10T23:50:43.512Z
+status: up
+code: 200
+responseTime: 1760
+lastUpdated: 2023-12-11T00:10:33.674Z
 startTime: 2023-11-11T06:11:17.891Z
 generator: Upptime <https://github.com/upptime/upptime>
