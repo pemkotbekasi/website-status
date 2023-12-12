@@ -1,7 +1,7 @@
 url: https://dppkb.bekasikota.go.id
-status: up
-code: 200
-responseTime: 4204
-lastUpdated: 2023-12-11T23:14:21.785Z
+status: down
+code: 503
+responseTime: 10989
+lastUpdated: 2023-12-12T04:14:55.193Z
 startTime: 2023-11-11T05:59:07.261Z
 generator: Upptime <https://github.com/upptime/upptime>
