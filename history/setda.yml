@@ -1,7 +1,7 @@
 url: https://setda.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1772
-lastUpdated: 2023-12-12T23:20:30.148Z
+status: down
+code: 500
+responseTime: 1247
+lastUpdated: 2023-12-14T13:13:56.580Z
 startTime: 2023-11-11T06:06:55.577Z
 generator: Upptime <https://github.com/upptime/upptime>
