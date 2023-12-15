@@ -1,7 +1,7 @@
 url: https://rsud.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2203
-lastUpdated: 2023-12-15T22:20:54.694Z
+status: down
+code: 502
+responseTime: 991
+lastUpdated: 2023-12-15T22:46:34.702Z
 startTime: 2023-11-11T06:06:11.924Z
 generator: Upptime <https://github.com/upptime/upptime>
