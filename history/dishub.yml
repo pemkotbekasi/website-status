@@ -1,7 +1,7 @@
 url: https://dishub.bekasikota.go.id
-status: down
-code: 503
-responseTime: 11230
-lastUpdated: 2023-12-21T13:43:48.112Z
+status: up
+code: 200
+responseTime: 1315
+lastUpdated: 2023-12-21T14:19:25.103Z
 startTime: 2023-11-11T05:58:40.409Z
 generator: Upptime <https://github.com/upptime/upptime>
