@@ -1,7 +1,7 @@
 url: https://bpbd.bekasikota.go.id
-status: down
-code: 503
-responseTime: 11558
-lastUpdated: 2023-12-21T13:41:26.320Z
+status: up
+code: 200
+responseTime: 1267
+lastUpdated: 2023-12-21T14:18:43.567Z
 startTime: 2023-11-11T05:57:41.826Z
 generator: Upptime <https://github.com/upptime/upptime>
