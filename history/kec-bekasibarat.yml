@@ -1,7 +1,7 @@
 url: https://kec-bekasibarat.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2454
-lastUpdated: 2023-12-23T23:16:16.092Z
+status: down
+code: 503
+responseTime: 11140
+lastUpdated: 2023-12-24T10:42:33.468Z
 startTime: 2023-11-11T06:02:12.971Z
 generator: Upptime <https://github.com/upptime/upptime>
