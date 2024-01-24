@@ -1,7 +1,7 @@
 url: https://disdukcapil.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2395
-lastUpdated: 2024-01-24T16:17:31.791Z
+status: down
+code: 500
+responseTime: 1053
+lastUpdated: 2024-01-24T16:52:11.887Z
 startTime: 2023-11-11T05:58:37.511Z
 generator: Upptime <https://github.com/upptime/upptime>
