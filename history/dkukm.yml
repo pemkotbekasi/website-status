@@ -1,7 +1,7 @@
 url: https://dkukm.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1407
-lastUpdated: 2024-01-23T23:13:14.870Z
+status: down
+code: 500
+responseTime: 1337
+lastUpdated: 2024-01-24T12:15:22.985Z
 startTime: 2023-11-11T05:59:00.547Z
 generator: Upptime <https://github.com/upptime/upptime>
