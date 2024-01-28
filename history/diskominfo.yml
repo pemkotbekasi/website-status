@@ -1,7 +1,7 @@
 url: https://diskominfo.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2500
-lastUpdated: 2024-01-27T23:12:40.461Z
+status: down
+code: 503
+responseTime: 15266
+lastUpdated: 2024-01-28T08:29:58.257Z
 startTime: 2023-11-11T05:58:42.531Z
 generator: Upptime <https://github.com/upptime/upptime>
