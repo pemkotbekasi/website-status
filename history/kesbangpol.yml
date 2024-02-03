@@ -1,7 +1,7 @@
 url: https://kesbangpol.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1181
-lastUpdated: 2024-02-01T23:18:24.550Z
+status: down
+code: 503
+responseTime: 11030
+lastUpdated: 2024-02-03T14:18:33.722Z
 startTime: 2023-11-11T06:04:24.697Z
 generator: Upptime <https://github.com/upptime/upptime>
