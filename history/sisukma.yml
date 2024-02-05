@@ -1,7 +1,7 @@
 url: https://sisukma.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1250
-lastUpdated: 2024-02-05T07:49:08.282Z
+status: down
+code: 503
+responseTime: 959
+lastUpdated: 2024-02-05T23:30:15.370Z
 startTime: 2023-11-11T06:12:32.626Z
 generator: Upptime <https://github.com/upptime/upptime>
