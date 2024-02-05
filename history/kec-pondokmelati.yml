@@ -1,7 +1,7 @@
 url: https://kec-pondokmelati.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2173
-lastUpdated: 2024-02-04T23:17:18.022Z
+status: down
+code: 503
+responseTime: 957
+lastUpdated: 2024-02-05T23:20:48.808Z
 startTime: 2023-11-11T06:02:39.837Z
 generator: Upptime <https://github.com/upptime/upptime>
