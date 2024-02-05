@@ -1,7 +1,7 @@
 url: https://sipjalu.bekasikota.go.id
-status: up
-code: 200
-responseTime: 991
-lastUpdated: 2024-02-04T23:27:08.168Z
+status: down
+code: 500
+responseTime: 5217
+lastUpdated: 2024-02-05T07:15:19.540Z
 startTime: 2023-11-11T06:12:06.710Z
 generator: Upptime <https://github.com/upptime/upptime>
