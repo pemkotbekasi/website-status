@@ -1,7 +1,7 @@
 url: https://opdsisukma.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1180
-lastUpdated: 2024-02-06T08:05:38.365Z
+status: down
+code: 503
+responseTime: 1212
+lastUpdated: 2024-02-06T13:38:40.082Z
 startTime: 2023-11-11T06:05:43.221Z
 generator: Upptime <https://github.com/upptime/upptime>
