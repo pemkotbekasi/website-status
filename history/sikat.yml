@@ -1,7 +1,7 @@
 url: https://sikat.bekasikota.go.id
-status: up
-code: 200
-responseTime: 3810
-lastUpdated: 2024-02-08T23:27:04.082Z
+status: down
+code: 503
+responseTime: 1421
+lastUpdated: 2024-02-09T09:00:21.085Z
 startTime: 2023-11-11T06:09:56.030Z
 generator: Upptime <https://github.com/upptime/upptime>
