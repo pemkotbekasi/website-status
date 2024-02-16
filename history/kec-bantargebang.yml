@@ -1,7 +1,7 @@
 url: https://kec-bantargebang.bekasikota.go.id
-status: up
-code: 200
-responseTime: 9610
-lastUpdated: 2024-02-16T03:39:57.112Z
+status: down
+code: 503
+responseTime: 10927
+lastUpdated: 2024-02-16T04:26:53.850Z
 startTime: 2023-11-11T06:02:09.974Z
 generator: Upptime <https://github.com/upptime/upptime>
