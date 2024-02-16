@@ -1,7 +1,7 @@
 url: https://kec-bekasiselatan.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2396
-lastUpdated: 2024-02-16T07:04:33.754Z
+status: down
+code: 503
+responseTime: 11250
+lastUpdated: 2024-02-16T08:28:47.204Z
 startTime: 2023-11-11T06:02:15.975Z
 generator: Upptime <https://github.com/upptime/upptime>
