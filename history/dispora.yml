@@ -1,7 +1,7 @@
 url: https://dispora.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1984
-lastUpdated: 2024-02-17T09:59:45.066Z
+status: down
+code: 503
+responseTime: 10928
+lastUpdated: 2024-02-17T10:28:35.759Z
 startTime: 2023-11-11T05:58:52.260Z
 generator: Upptime <https://github.com/upptime/upptime>
