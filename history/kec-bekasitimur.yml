@@ -1,7 +1,7 @@
 url: https://kec-bekasitimur.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2130
-lastUpdated: 2024-02-17T06:05:48.473Z
+status: down
+code: 503
+responseTime: 11133
+lastUpdated: 2024-02-17T08:25:00.487Z
 startTime: 2023-11-11T06:02:18.937Z
 generator: Upptime <https://github.com/upptime/upptime>
