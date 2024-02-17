@@ -1,7 +1,7 @@
 url: https://kec-medansatria.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2033
-lastUpdated: 2024-02-17T05:38:04.792Z
+status: down
+code: 503
+responseTime: 11183
+lastUpdated: 2024-02-17T08:28:13.499Z
 startTime: 2023-11-11T06:02:30.829Z
 generator: Upptime <https://github.com/upptime/upptime>
