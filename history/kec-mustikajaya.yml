@@ -1,7 +1,7 @@
 url: https://kec-mustikajaya.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2092
-lastUpdated: 2024-02-17T09:00:23.847Z
+status: down
+code: 503
+responseTime: 11270
+lastUpdated: 2024-02-17T09:32:55.390Z
 startTime: 2023-11-11T06:02:33.868Z
 generator: Upptime <https://github.com/upptime/upptime>
