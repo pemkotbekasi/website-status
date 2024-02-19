@@ -1,7 +1,7 @@
 url: https://kec-pondokgede.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2613
-lastUpdated: 2024-02-19T16:27:27.793Z
+status: down
+code: 503
+responseTime: 11160
+lastUpdated: 2024-02-19T17:28:25.481Z
 startTime: 2023-11-11T06:02:36.841Z
 generator: Upptime <https://github.com/upptime/upptime>
