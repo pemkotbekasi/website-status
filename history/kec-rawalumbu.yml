@@ -1,7 +1,7 @@
 url: https://kec-rawalumbu.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2504
-lastUpdated: 2024-02-20T02:31:22.172Z
+status: down
+code: 503
+responseTime: 11149
+lastUpdated: 2024-02-20T03:09:40.810Z
 startTime: 2023-11-11T06:02:42.808Z
 generator: Upptime <https://github.com/upptime/upptime>
