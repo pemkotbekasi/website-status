@@ -1,7 +1,7 @@
 url: https://kec-jatisampurna.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1264
-lastUpdated: 2024-02-20T04:40:20.600Z
+status: down
+code: 503
+responseTime: 11268
+lastUpdated: 2024-02-20T05:59:10.179Z
 startTime: 2023-11-11T06:02:27.852Z
 generator: Upptime <https://github.com/upptime/upptime>
