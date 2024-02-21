@@ -1,7 +1,7 @@
 url: https://sipaten.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1144
-lastUpdated: 2024-02-18T23:41:17.049Z
+status: down
+code: 503
+responseTime: 962
+lastUpdated: 2024-02-21T10:01:06.905Z
 startTime: 2023-11-11T06:11:24.660Z
 generator: Upptime <https://github.com/upptime/upptime>
