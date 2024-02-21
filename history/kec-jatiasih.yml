@@ -1,7 +1,7 @@
 url: https://kec-jatiasih.bekasikota.go.id
-status: up
-code: 200
-responseTime: 961
-lastUpdated: 2024-02-20T18:42:27.297Z
+status: down
+code: 503
+responseTime: 11171
+lastUpdated: 2024-02-21T02:41:18.205Z
 startTime: 2023-11-11T06:02:24.847Z
 generator: Upptime <https://github.com/upptime/upptime>
