@@ -1,7 +1,7 @@
 url: https://portalwebsite.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1265
-lastUpdated: 2024-02-22T23:27:16.894Z
+status: down
+code: 503
+responseTime: 1156
+lastUpdated: 2024-02-23T07:54:26.924Z
 startTime: 2023-11-11T06:05:57.685Z
 generator: Upptime <https://github.com/upptime/upptime>
