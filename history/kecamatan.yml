@@ -1,7 +1,7 @@
 url: https://kecamatan.bekasikota.go.id
-status: up
-code: 200
-responseTime: 3628
-lastUpdated: 2024-02-26T08:28:20.494Z
+status: down
+code: 502
+responseTime: 1253
+lastUpdated: 2024-02-27T13:53:58.526Z
 startTime: 2023-11-11T06:02:06.149Z
 generator: Upptime <https://github.com/upptime/upptime>
