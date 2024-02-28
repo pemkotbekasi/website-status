@@ -1,7 +1,7 @@
 url: https://mail.bekasikota.go.id
-status: up
-code: 200
-responseTime: 1191
-lastUpdated: 2024-02-27T23:20:49.436Z
+status: down
+code: 504
+responseTime: 26260
+lastUpdated: 2024-02-28T03:53:25.609Z
 startTime: 2023-11-11T06:05:02.557Z
 generator: Upptime <https://github.com/upptime/upptime>
