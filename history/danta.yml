@@ -1,7 +1,7 @@
 url: https://danta.bekasikota.go.id
-status: up
-code: 200
-responseTime: 2377
-lastUpdated: 2024-03-31T22:25:53.626Z
+status: down
+code: 503
+responseTime: 1247
+lastUpdated: 2024-03-31T23:05:26.918Z
 startTime: 2023-11-11T05:58:04.512Z
 generator: Upptime <https://github.com/upptime/upptime>
